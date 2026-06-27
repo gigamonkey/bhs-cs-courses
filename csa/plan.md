@@ -598,7 +598,7 @@ targets: ced, book
 
 ## FRQ practice
 
-## Pool — not yet placed
+# Unplaced objectives
 
 - Write bubble sort.  (#4f8f)
 - Demonstrate bubble sort with cards  (#51aa)
