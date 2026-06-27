@@ -92,8 +92,6 @@ targets: syllabus
 
 # Unit: Exams (1 week)
 
-## Exams
-
 ## Pool — not yet placed
 
 - Describe the notional instruction register (IR)  (#2ea0)
