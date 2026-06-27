@@ -13,98 +13,98 @@ calendar: bhs-2026-2027
 
 # Unit: Variables and functions (2 weeks)
 
-## Using variables and functions
+## Using variables and functions (2 days)
 
-## Defining variables
+## Defining variables (3 days)
 
-## Writing functions
+## Writing functions (5 days)
 
 # Unit: Numbers (2 weeks)
 
-## Math inside out (4 days)
+## Math inside out (4) (4 days)
 
-## Animations (5 days)
+## Animations (5) (5 days)
 
 # Unit: Control constructs: conditionals (2 weeks)
 
-## Booleans
+## Booleans (2 days)
 
-## if statements
+## if statements (3 days)
 
-## Practice
+## Practice (5 days)
 
 # Unit: Control constructs: loops (2 weeks)
 
-## Image gallery
+## Image gallery (5 days)
 
-## Control constructs review
+## Control constructs review (4 days)
 
 # Unit: Strings (2 weeks)
 
-## Strings (9)
+## Strings (9) (9 days)
 
 # Unit: Arrays (2 weeks)
 
 ## Strings test
 
-## Arrays
+## Arrays (8 days)
 
 # Unit: Project (2 weeks)
 
-## Tic tac toe
+## Tic tac toe (9 days)
 
 # Unit: Review for exam (3 weeks)
 
-## Speedruns
+## Speedruns (5 days)
 
-## Review and speedruns
+## Review and speedruns (10 days)
 
 # Unit: HTML and CSS (2 weeks)
 
 ## Codespaces
 
-## HTML (4 days)
+## HTML (4) (4 days)
 
-## CSS (5 days)
+## CSS (5) (5 days)
 
 # Unit: Web project (2 weeks)
 
-## Project
+## Project (8 days)
 
 # Unit: DOM and events (3 weeks)
 
-## Web project wrap up
+## Web project wrap up (6 days)
 
-## Events
+## Events (7 days)
 
 # Unit: Web game (3 weeks)
 
-## Web UI
+## Web UI (5 days)
 
-## Game project
+## Game project (10 days)
 
 # Unit: Objects and higher order functions (2 weeks)
 
-## Objects
+## Objects (9 days)
 
 # Unit: Video game projects (3 weeks)
 
-## Video game
+## Video game (15 days)
 
 # Unit: Refactoring (1 week)
 
-## Refactoring
+## Refactoring (5 days)
 
 # Unit: HOFs (1 week)
 
 ## Refactoring
 
-## HOFs
+## HOFs (3 days)
 
 ## Final project
 
 # Unit: Final project (3 weeks)
 
-## Final project
+## Final project (13 days)
 
 # Unit: Exams (1 week)
