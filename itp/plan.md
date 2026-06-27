@@ -2,6 +2,7 @@
 course: itp
 title: Intro to Programming
 primary_outline: plan
+calendar: bhs-2026-2027
 ---
 
 # Unit: Welcome (1 week)
