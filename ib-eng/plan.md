@@ -18,6 +18,8 @@ targets: syllabus
 
 ## String representation
 
+##
+
 # Unit: Strings (1 week)
 
 ## Regexps
