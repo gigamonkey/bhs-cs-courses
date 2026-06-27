@@ -12,7 +12,7 @@ targets: syllabus
 
 ## Java review (7 days)
 
-# Unit: Down to the bits (2 weeks)
+# Unit: Down to the bits (3 weeks)
 
 ## Bit twiddling
 
