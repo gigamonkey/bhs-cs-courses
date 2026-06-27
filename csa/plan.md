@@ -33,6 +33,8 @@ targets: ced, book
 
 ## Growth mindset and pair programming
 
+- test  (#482e)
+
 # Unit: Values, variables, and expressions (2 weeks)
 
 ## Values and variables
@@ -600,7 +602,6 @@ targets: ced, book
 
 ## Pool — not yet placed
 
-- test  (#482e)
 - Write bubble sort.  (#4f8f)
 - Demonstrate bubble sort with cards  (#51aa)
 - Explain the difference between the heap and the stack.  (#7e2a)
