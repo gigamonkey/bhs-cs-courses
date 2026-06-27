@@ -10,11 +10,13 @@ targets: syllabus
 
 ## Welcome!
 
-## Java review/intro (7 days)
+## Java intro/review (7 days)
 
 # Unit: Down to the bits (2 weeks)
 
 ## Bit twiddling
+
+## String representation
 
 # Unit: Strings (1 week)
 

@@ -605,4 +605,3 @@ targets: ced, book
 - Explain the difference between the heap and the stack.  (#7e2a)
 - Explain how copyright applies to software  (#c998)
 - Explain the difference between a primitive and a reference type in terms of the stack and the heap.  (#fa61)
-- test  (#4faf)
