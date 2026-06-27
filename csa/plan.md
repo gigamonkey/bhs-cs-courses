@@ -33,8 +33,6 @@ targets: ced, book
 
 ## Growth mindset and pair programming
 
-- test  (#482e)
-
 # Unit: Values, variables, and expressions (2 weeks)
 
 ## Values and variables
@@ -607,3 +605,4 @@ targets: ced, book
 - Explain the difference between the heap and the stack.  (#7e2a)
 - Explain how copyright applies to software  (#c998)
 - Explain the difference between a primitive and a reference type in terms of the stack and the heap.  (#fa61)
+- test  (#482e)
