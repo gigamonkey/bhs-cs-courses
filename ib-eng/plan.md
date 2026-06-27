@@ -14,7 +14,7 @@ targets: syllabus
 
 # Unit: Down to the bits (2 weeks)
 
-## ints as a bunch of bits
+## Ints as a bunch of bits
 
 ## Bit twiddling
 
