@@ -57,7 +57,7 @@ calendar: bhs-2026-2027
 
 ## Speedruns (5 days)
 
-## Review and speedruns (10 days)
+## Review and speedruns (9 days)
 
 # Unit: HTML and CSS (2 weeks)
 
