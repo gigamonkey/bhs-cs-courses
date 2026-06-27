@@ -10,7 +10,7 @@ targets: syllabus
 
 ## Welcome!
 
-## Java review (4 days)
+## Java review (7 days)
 
 # Unit: Down to the bits (1 week)
 
