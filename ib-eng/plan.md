@@ -16,7 +16,7 @@ targets: syllabus
 
 ## Bit twiddling
 
-## Project (8)
+## Project (8 days)
 
 ## String representation
 
