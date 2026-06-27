@@ -6,6 +6,92 @@ calendar: bhs-2026-2027
 targets: syllabus
 ---
 
+# Unit: Welcome (1 week)
+
+## Welcome!
+
+## Java review
+
+# Unit: Down to the bits (3 weeks)
+
+## Bit twiddling
+
+## Project (8)
+
+# Unit: Strings (1 week)
+
+## Regexps
+
+# Unit: Interfaces and Collections (2 weeks)
+
+## Interfaces
+
+## Streams
+
+# Unit: Generic types (2 weeks)
+
+## Generic tpes
+
+# Unit: Records and Enums (2 weeks)
+
+## Project
+
+# Unit: Exceptions and invariants (2 weeks)
+
+## Packages
+
+# Unit: I/O (2 weeks)
+
+## Stuff
+
+# Unit: Advent of Code (3 weeks)
+
+## Advent of code
+
+# Unit: Halting problem (2 weeks)
+
+## Turing machines
+
+# Unit: Project (2 weeks)
+
+## Project
+
+# Unit: Command line (3 weeks)
+
+## Bash
+
+## Treasure hunt
+
+# Unit: SQL (3 weeks)
+
+## One more day of bash
+
+## Intro to SQL
+
+# Unit: Recursion (2 weeks)
+
+## Recursion
+
+# Unit: Group project: (3 weeks)
+
+## Double dispatch
+
+## Adventure game
+
+# Unit: Reflection (2 weeks)
+
+## Group project wrap up
+
+## Reflection
+
+# Unit: Project (3 weeks)
+
+## Final project
+
+# Unit: Exams (1 week)
+
+## Exams
+
 ## Pool — not yet placed
 
 - Describe the notional instruction register (IR)  (#2ea0)
