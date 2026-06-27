@@ -18,6 +18,8 @@ targets: syllabus
 
 ## String representation
 
+# Unit: CPUs and GPUs (1 week)
+
 # Unit: Strings (1 week)
 
 ## Regexps
