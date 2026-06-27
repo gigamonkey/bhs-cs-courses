@@ -108,5 +108,3 @@ calendar: bhs-2026-2027
 ## Final project
 
 # Unit: Exams (1 week)
-
-## Exams
