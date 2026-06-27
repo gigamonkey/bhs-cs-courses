@@ -92,7 +92,7 @@ targets: syllabus
 
 # Unit: Exams (1 week)
 
-## Pool — not yet placed
+# Unplaced objectives
 
 - Describe the notional instruction register (IR)  (#2ea0)
 - Describe the notional memory address register (MAR)  (#66d5)
