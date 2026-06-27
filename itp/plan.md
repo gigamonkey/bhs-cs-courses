@@ -9,7 +9,7 @@ calendar: bhs-2026-2027
 
 ## Welcome!
 
-## What is programming?
+## What is programming? (2 days)
 
 # Unit: Variables and functions (2 weeks)
 
