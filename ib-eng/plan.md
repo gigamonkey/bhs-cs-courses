@@ -16,8 +16,6 @@ targets: syllabus
 
 ## Bit twiddling
 
-## Project (8 days)
-
 ## String representation
 
 # Unit: Strings (1 week)
