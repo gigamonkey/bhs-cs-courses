@@ -16,8 +16,6 @@ targets: syllabus
 
 ## Bit twiddling
 
-## Project (8 days)
-
 # Unit: Strings (1 week)
 
 ## Regexps
