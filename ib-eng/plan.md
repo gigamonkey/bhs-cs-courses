@@ -18,7 +18,7 @@ targets: syllabus
 
 ## String representation
 
-##
+## ints as a bunch of bits
 
 # Unit: Strings (1 week)
 
