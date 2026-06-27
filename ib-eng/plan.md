@@ -14,11 +14,11 @@ targets: syllabus
 
 # Unit: Down to the bits (2 weeks)
 
+## ints as a bunch of bits
+
 ## Bit twiddling
 
 ## String representation
-
-## ints as a bunch of bits
 
 # Unit: Strings (1 week)
 
