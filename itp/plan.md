@@ -21,7 +21,7 @@ calendar: bhs-2026-2027
 
 # Unit: Numbers (2 weeks)
 
-## Math inside out (4)
+## Math inside out (4 days)
 
 ## Animations (5)
 
