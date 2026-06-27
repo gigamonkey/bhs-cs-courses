@@ -23,7 +23,7 @@ calendar: bhs-2026-2027
 
 ## Math inside out (4 days)
 
-## Animations (5)
+## Animations (5 days)
 
 # Unit: Control constructs: conditionals (2 weeks)
 
@@ -63,9 +63,9 @@ calendar: bhs-2026-2027
 
 ## Codespaces
 
-## HTML (4)
+## HTML (4 days)
 
-## CSS (5)
+## CSS (5 days)
 
 # Unit: Web project (2 weeks)
 
