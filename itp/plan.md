@@ -105,6 +105,6 @@ calendar: bhs-2026-2027
 
 # Unit: Final project (3 weeks)
 
-## Final project (13 days)
+## Final project (14 days)
 
 # Unit: Exams (1 week)
