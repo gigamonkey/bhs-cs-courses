@@ -18,7 +18,7 @@ targets: syllabus
 
 ## Project (8)
 
-##
+## String representation
 
 # Unit: Strings (1 week)
 
