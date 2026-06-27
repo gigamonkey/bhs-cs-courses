@@ -32,7 +32,7 @@ targets: syllabus
 
 # Unit: Generic types (2 weeks)
 
-## Generic tpes
+## Generic types
 
 # Unit: Records and Enums (2 weeks)
 
