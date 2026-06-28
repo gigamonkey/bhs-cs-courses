@@ -36,7 +36,7 @@ targets: syllabus
 
 # Unit: Compilers and interpreters (1 week)
 
-##
+## Parsing
 
 # Unit: Strings (1 week)
 
