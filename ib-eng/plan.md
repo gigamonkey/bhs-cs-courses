@@ -30,7 +30,7 @@ targets: syllabus
 
 # Unit: CPUs and GPUs (2 weeks)
 
-## (#9b13)
+## What the CPU does (#9b13)
 
 # Unit: Operating systems (2 weeks)
 
