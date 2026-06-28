@@ -20,6 +20,8 @@ targets: syllabus
 
 ## String encoding
 
+##
+
 # Unit: CPUs and GPUs
 
 # Unit: Operating systems
