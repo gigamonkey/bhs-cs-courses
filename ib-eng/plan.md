@@ -106,7 +106,7 @@ targets: syllabus
 
 # Unit: Exams (1 week)
 
-# Unit:
+# Unit: SQL databases
 
 # Unplaced objectives
 
