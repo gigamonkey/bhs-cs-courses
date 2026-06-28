@@ -38,7 +38,7 @@ targets: syllabus
 
 ## Treasure hunt
 
-# Unit: SQL (3 weeks)
+# Unit: Databases (3 weeks)
 
 ## One more day of bash
 
