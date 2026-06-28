@@ -16,6 +16,8 @@ targets: syllabus
 
 ## Ints as a bunch of bits (2 days)
 
+## Bitwise operators
+
 ## Bit twiddling (2 days)
 
 ## String encoding
@@ -25,8 +27,6 @@ targets: syllabus
 ## Hex
 
 ## Base conversions
-
-## Bitwise operators
 
 # Unit: CPUs and GPUs
 
