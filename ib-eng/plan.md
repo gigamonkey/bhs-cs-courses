@@ -20,9 +20,9 @@ targets: syllabus
 
 ## String encoding
 
-## Hex
-
 ## Binary
+
+## Hex
 
 # Unit: CPUs and GPUs
 
