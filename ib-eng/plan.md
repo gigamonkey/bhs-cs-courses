@@ -20,7 +20,7 @@ targets: syllabus
 
 ## String encoding
 
-##
+## Hex
 
 # Unit: CPUs and GPUs
 
