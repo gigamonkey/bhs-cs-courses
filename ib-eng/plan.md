@@ -34,6 +34,8 @@ targets: syllabus
 
 # Unit: Machine Learning
 
+# Unit: Compilers and interpreters
+
 # Unit: Strings (1 week)
 
 ## Regexps
@@ -105,8 +107,6 @@ targets: syllabus
 ## Final project
 
 # Unit: Exams (1 week)
-
-# Unit: Compilers and interpreters
 
 # Unplaced objectives
 
