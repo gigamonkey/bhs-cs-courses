@@ -78,8 +78,6 @@ targets: syllabus
 
 ## Packages
 
-# Unit: I/O (2 weeks)
-
 # Unit: Advent of Code (3 weeks)
 
 ## Advent of code
