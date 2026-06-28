@@ -26,7 +26,7 @@ targets: syllabus
 
 ## Base conversions
 
-## String encoding
+## String encoding (2 days)
 
 # Unit: CPUs and GPUs
 
