@@ -20,13 +20,13 @@ targets: syllabus
 
 ## Bit twiddling (2 days)
 
-## String encoding
-
 ## Binary
 
 ## Hex
 
 ## Base conversions
+
+## String encoding
 
 # Unit: CPUs and GPUs
 
