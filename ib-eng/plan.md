@@ -38,7 +38,7 @@ targets: syllabus
 
 ## Intro to SQL
 
-# Unit: Machine Learning
+# Unit: Machine Learning (2 weeks)
 
 # Unit: Compilers and interpreters (1 week)
 
