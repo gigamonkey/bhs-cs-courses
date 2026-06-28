@@ -58,6 +58,10 @@ targets: syllabus
 
 # Unit: Security and cryptography
 
+# Unit: IA/Independent projects (4 weeks)
+
+## Project
+
 # Unit: Strings (1 week)
 
 ## Regexps
@@ -71,10 +75,6 @@ targets: syllabus
 # Unit: Generic types (2 weeks)
 
 ## Generic types
-
-# Unit: IA/Independent projects (4 weeks)
-
-## Project
 
 # Unit: Records and Enums (2 weeks)
 
