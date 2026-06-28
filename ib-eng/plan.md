@@ -32,6 +32,12 @@ targets: syllabus
 
 # Unit: Operating systems
 
+# Unit: Command line (3 weeks)
+
+## Bash
+
+## Treasure hunt
+
 # Unit: SQL (3 weeks)
 
 ## One more day of bash
@@ -81,12 +87,6 @@ targets: syllabus
 # Unit: Halting problem (2 weeks)
 
 ## Turing machines
-
-# Unit: Command line (3 weeks)
-
-## Bash
-
-## Treasure hunt
 
 # Unit: Recursion (2 weeks)
 
