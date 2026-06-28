@@ -22,6 +22,8 @@ targets: syllabus
 
 ## Hex
 
+## Binary
+
 # Unit: CPUs and GPUs
 
 # Unit: Operating systems
