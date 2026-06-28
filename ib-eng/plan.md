@@ -6,7 +6,7 @@ calendar: bhs-2026-2027
 targets: syllabus
 ---
 
-# Unit: Programming basics (2 weeks)
+# Unit: Programming basics (4 weeks)
 
 ## Welcome!
 
