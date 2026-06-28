@@ -108,7 +108,7 @@ targets: syllabus
 
 ## Reflection
 
-# Unit: Project (3 weeks)
+# Unit: Project (2 weeks)
 
 ## Final project
 
