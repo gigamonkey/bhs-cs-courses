@@ -66,6 +66,10 @@ targets: syllabus
 
 ## Generic types
 
+# Unit: IA/Independent projects
+
+## Project
+
 # Unit: Records and Enums (2 weeks)
 
 ## Project
@@ -95,10 +99,6 @@ targets: syllabus
 # Unit: Recursion (2 weeks)
 
 ## Recursion
-
-# Unit: IA/Independent projects
-
-## Project
 
 # Unit: Group project: (1 week)
 
