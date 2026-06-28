@@ -78,6 +78,8 @@ targets: syllabus
 
 ## Treasure hunt
 
+# Unit: SQL databases
+
 # Unit: SQL (3 weeks)
 
 ## One more day of bash
@@ -105,8 +107,6 @@ targets: syllabus
 ## Final project
 
 # Unit: Exams (1 week)
-
-# Unit: SQL databases
 
 # Unplaced objectives
 
