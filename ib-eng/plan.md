@@ -28,9 +28,9 @@ targets: syllabus
 
 ## String encoding (2 days)
 
-# Unit: CPUs and GPUs
-
 # Unit: Operating systems
+
+# Unit: CPUs and GPUs
 
 # Unit: SQL (3 weeks)
 
