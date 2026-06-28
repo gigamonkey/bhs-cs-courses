@@ -1,0 +1,112 @@
+Describe the functions and interactions of the main CPU components.
+Describe the role of a GPU.
+Explain the differences between the CPU and the GPU. (HL only)
+Explain the purposes of different types of primary memory.
+Describe the fetch, decode and execute cycle.
+Describe the process of pipelining in multi-core architectures. (HL only)
+Describe internal and external types of secondary memory storage.
+Describe the concept of compression.
+Describe the different types of services in cloud computing.
+Describe the principal methods of representing data.
+Explain how binary is used to store data.
+Describe the purpose and use of logic gates.
+Construct and analyse truth tables.
+Construct logic diagrams.
+Describe the role of operating systems.
+Describe the functions of an operating system.
+Compare different approaches to scheduling.
+Evaluate the use of polling and interrupt handling.
+Explain the role of the operating system in managing multitasking and resource allocation. (HL only)
+Describe the use of the control system components. (HL only)
+Explain the use of control systems in a range of real-world applications. (HL only)
+Evaluate the translation processes of interpreters and compilers.
+Describe the purpose and characteristics of networks.
+Describe the purpose, benefits and limitations of modern digital infrastructures.
+Describe the function of network devices.
+Describe the network protocols used for transport and application.
+Describe the function of the TCP/IP model. (HL only)
+Describe the functions and practical applications of network topologies.
+Describe the function of servers. (HL only)
+Compare and contrast networking models.
+Explain the concepts and applications of network segmentation.
+Describe different types of IP addressing.
+Compare types of media for data transmission.
+Explain how packet switching is used to send data across a network.
+Explain how static routing and dynamic routing move data across local area networks. (HL only)
+Discuss the effectiveness of firewalls at protecting a network.
+Describe common network vulnerabilities. (HL only)
+Describe common network countermeasures. (HL only)
+Describe the process of encryption and digital certificates.
+Explain the features, benefits and limitations of a relational database.
+Describe database schemas.
+Construct ERDs.
+Outline the different data types used in relational databases.
+Construct tables for relational databases.
+Explain the difference between normal forms.
+Construct a database normalized to 3NF for a range of real-world scenarios.
+Evaluate the need for denormalizing databases.
+Outline the differences between data language types within SQL.
+Construct queries between two tables in SQL.
+Explain how SQL can be used to update data in a database.
+Construct calculations within a database using SQL’s aggregate functions. (HL only)
+Describe different database views. (HL only)
+Describe how transactions maintain data integrity in a database. (HL only)
+Outline the different types of databases as approaches to storing data.
+Explain the primary objectives of data warehouses in data management and business intelligence.
+Explain the role of online analytical processing (OLAP) and data mining for business intelligence.
+Describe the features of distributed databases.
+Describe the types of machine learning and their applications in the real world.
+Describe the hardware requirements for various scenarios where machine learning is deployed.
+Describe the significance of data cleaning.
+Describe the role of feature selection.
+Describe the importance of dimensionality reduction.
+Explain how linear regression is used to predict continuous outcomes.
+Explain how classifications techniques in supervised learning are used to predict discrete categorical outcomes.
+Explain the role of hyperparameter tuning when evaluating supervised learning algorithms.
+Describe how clustering techniques in unsupervised learning are used to group data based on similarities in features.
+Describe how learning techniques using the association rule are used to uncover relations between different attributes in large data sets.
+Describe how an agent learns to make decisions by interacting with its environment in reinforcement learning.
+Describe the application of genetic algorithms in various real-world situations.
+Outline the structure and function of ANNs and how multi-layer networks are used to model complex patterns in data sets.
+Describe how CNNs are designed to adaptively learn spatial hierarchies of features in images.
+Explain the importance of model selection and comparison in machine learning.
+Discuss the ethical implications of machine learning in real-world scenarios.
+Discuss ethical aspects of the increasing integration of computer technologies into daily life.
+Construct a problem specification.
+Describe the fundamental concepts of computational thinking.
+Explain how applying computational thinking to fundamental concepts is used to approach and solve problems in computer science.
+Trace flowcharts for a range of programming algorithms.
+Construct and trace programs using a range of global and local variables of various data types.
+Construct programs that can extract and manipulate substrings.
+Describe how programs use common exception handling techniques.
+Construct and use common debugging techniques.
+Compare static and dynamic data structures.
+Construct programs that apply arrays and Lists.
+Explain the concept of a stack as a “last in, first out” (LIFO) data structure.
+Explain the concept of a queue as a “first in, first out” (FIFO) data structure.
+Construct programs that implement the correct sequence of code instructions to meet program objectives.
+Construct programs utilizing appropriate selection structures.
+Construct programs that utilize looping structures to perform repeated actions.
+Construct functions and modularization.
+Describe the efficiency of specific algorithms by calculating their Big O notation to analyse their scalability.
+Construct and trace algorithms to implement a linear search and a binary search for data retrieval.
+Construct and trace algorithms to implement bubble sort and selection sort, evaluating their time and space complexities.
+Explain the fundamental concept of recursion and its applications in programming. (HL only)
+Construct and trace recursive algorithms in a programming language. (HL only)
+Construct code to perform file-processing operations.
+Evaluate the fundamentals of OOP.
+Construct a design of classes, their methods and behaviour.
+Distinguish between static and non-static variables and methods.
+Construct code to define classes and instantiate objects.
+Explain and apply the concepts of encapsulation and information hiding in OOP.
+Explain and apply the concept of inheritance in OOP to promote code reusability.
+Construct code to model polymorphism and its various forms, such as method overriding.
+Explain the concept of abstraction in OOP.
+Explain the role of composition and aggregation in class relationships.
+Explain commonly used design patterns in OOP.
+Explain the properties and purpose of ADTs in programming.
+Evaluate linked lists.
+Construct and apply linked lists: singly, doubly and circular.
+Explain the structures and properties of BSTs.
+Construct and apply sets as an ADT.
+Explain the core principles of ADTs.

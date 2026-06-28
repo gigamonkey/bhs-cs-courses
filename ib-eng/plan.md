@@ -18,7 +18,7 @@ targets: syllabus
 
 ## Bit twiddling
 
-## String representation
+## String encoding
 
 # Unit: CPUs and GPUs
 
