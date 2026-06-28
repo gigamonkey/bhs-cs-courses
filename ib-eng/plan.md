@@ -80,8 +80,6 @@ targets: syllabus
 
 # Unit: I/O (2 weeks)
 
-## Stuff
-
 # Unit: Advent of Code (3 weeks)
 
 ## Advent of code
