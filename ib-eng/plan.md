@@ -92,7 +92,7 @@ targets: syllabus
 
 ## Recursion
 
-# Unit: Group project: (1 week)
+# Unit: Group project (1 week)
 
 ## Double dispatch
 
