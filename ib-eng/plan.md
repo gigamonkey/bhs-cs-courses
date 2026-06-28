@@ -20,7 +20,11 @@ targets: syllabus
 
 ## String representation
 
-# Unit: CPUs and GPUs (1 week)
+# Unit: CPUs and GPUs
+
+# Unit: Operating systems
+
+# Unit: Machine Learning
 
 # Unit: Strings (1 week)
 
@@ -56,7 +60,7 @@ targets: syllabus
 
 ## Turing machines
 
-# Unit: Project (2 weeks)
+# Unit: IA/Independent projects
 
 ## Project
 
