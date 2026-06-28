@@ -66,7 +66,7 @@ targets: syllabus
 
 ## Generic types
 
-# Unit: IA/Independent projects
+# Unit: IA/Independent projects (4 weeks)
 
 ## Project
 
