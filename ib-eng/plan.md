@@ -68,10 +68,6 @@ targets: syllabus
 
 ## Turing machines
 
-# Unit: IA/Independent projects
-
-## Project
-
 # Unit: Command line (3 weeks)
 
 ## Bash
@@ -87,6 +83,10 @@ targets: syllabus
 # Unit: Recursion (2 weeks)
 
 ## Recursion
+
+# Unit: IA/Independent projects
+
+## Project
 
 # Unit: Group project: (3 weeks)
 
