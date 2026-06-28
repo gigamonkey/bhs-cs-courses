@@ -16,7 +16,7 @@ targets: syllabus
 
 ## Ints as a bunch of bits (2 days)
 
-## Bit twiddling
+## Bit twiddling (2 days)
 
 ## String encoding
 
