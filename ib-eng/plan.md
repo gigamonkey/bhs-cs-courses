@@ -62,10 +62,6 @@ targets: syllabus
 
 ## Project
 
-# Unit: Strings (1 week)
-
-## Regexps
-
 # Unit: Interfaces and Collections (2 weeks)
 
 ## Interfaces
@@ -107,6 +103,8 @@ targets: syllabus
 # Unit: Exams (1 week)
 
 # Unassigned lessons
+
+## Regexps
 
 ## Advent of code
 
