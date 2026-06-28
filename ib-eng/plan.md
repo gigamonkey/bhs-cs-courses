@@ -48,7 +48,7 @@ targets: syllabus
 
 ## Compiling
 
-# Unit:
+# Unit: Networking
 
 # Unit: Strings (1 week)
 
