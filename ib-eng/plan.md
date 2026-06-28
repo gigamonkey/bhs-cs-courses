@@ -112,10 +112,6 @@ targets: syllabus
 
 ## Reflection
 
-# Unit: Project (2 weeks)
-
-## Final project
-
 # Unit: Exams (1 week)
 
 # Unplaced objectives
