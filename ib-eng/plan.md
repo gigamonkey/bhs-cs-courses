@@ -96,7 +96,7 @@ targets: syllabus
 
 ## Project
 
-# Unit: Group project: (3 weeks)
+# Unit: Group project: (1 week)
 
 ## Double dispatch
 
