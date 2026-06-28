@@ -8,25 +8,25 @@ targets: syllabus
 
 # Unit: Programming basics (2 weeks)
 
-## Welcome!
+## Welcome! (#1.1)
 
-## Java intro/review (7 days)
+## Java intro/review (7 days) (#1.2)
 
 # Unit: Down to the bits (2 weeks)
 
-## Ints as a bunch of bits
+## Ints as a bunch of bits (#2.1)
 
-## Bitwise operators (2 days)
+## Bitwise operators (2 days) (#2.2)
 
-## Bit twiddling (2 days)
+## Bit twiddling (2 days) (#2.3)
 
-## Binary
+## Binary (#2.4)
 
-## Hex
+## Hex (#2.5)
 
-## Base conversions
+## Base conversions (#2.6)
 
-## String encoding (2 days)
+## String encoding (2 days) (#2.7)
 
 # Unit: CPUs and GPUs (2 weeks)
 
@@ -34,25 +34,25 @@ targets: syllabus
 
 # Unit: Command line (2 weeks)
 
-## Bash
+## Bash (#5.1)
 
-## Treasure hunt
+## Treasure hunt (#5.2)
 
 # Unit: Databases (3 weeks)
 
-## One more day of bash
+## One more day of bash (#6.1)
 
-## Intro to SQL
+## Intro to SQL (#6.2)
 
 # Unit: Machine Learning (2 weeks)
 
 # Unit: Compilers and interpreters (1 week)
 
-## Parsing
+## Parsing (#8.1)
 
-## Interpreting
+## Interpreting (#8.2)
 
-## Compiling
+## Compiling (#8.3)
 
 # Unit: Networking
 
@@ -60,53 +60,53 @@ targets: syllabus
 
 # Unit: IA/Independent projects (4 weeks)
 
-## Project
+## Project (#14.1)
 
 # Unit: Interfaces and Collections (2 weeks)
 
-## Interfaces
+## Interfaces (#12.1)
 
-## Streams
+## Streams (#12.2)
 
 # Unit: Generic types (2 weeks)
 
-## Generic types
+## Generic types (#13.1)
 
 # Unit: Records and Enums (2 weeks)
 
-## Project
+## Project (#15.1)
 
 # Unit: Exceptions and invariants (2 weeks)
 
-## Packages
+## Packages (#16.1)
 
 # Unit: Halting problem (1 week)
 
-## Turing machines
+## Turing machines (#17.1)
 
 # Unit: Recursion (2 weeks)
 
-## Recursion
+## Recursion (#18.1)
 
 # Unit: Group project (1 week)
 
-## Double dispatch
+## Double dispatch (#19.1)
 
-## Adventure game
+## Adventure game (#19.2)
 
 # Unit: Reflection (2 weeks)
 
-## Group project wrap up
+## Group project wrap up (#20.1)
 
-## Reflection
+## Reflection (#20.2)
 
 # Unit: Exams (1 week)
 
 # Unassigned lessons
 
-## Regexps
+## Regexps (#11.1)
 
-## Advent of code
+## Advent of code (#u.1)
 
 # Unplaced objectives
 
