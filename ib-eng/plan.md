@@ -32,6 +32,12 @@ targets: syllabus
 
 # Unit: Operating systems
 
+# Unit: SQL (3 weeks)
+
+## One more day of bash
+
+## Intro to SQL
+
 # Unit: Machine Learning
 
 # Unit: Compilers and interpreters (1 week)
@@ -81,12 +87,6 @@ targets: syllabus
 ## Bash
 
 ## Treasure hunt
-
-# Unit: SQL (3 weeks)
-
-## One more day of bash
-
-## Intro to SQL
 
 # Unit: Recursion (2 weeks)
 
