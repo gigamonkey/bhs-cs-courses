@@ -34,7 +34,7 @@ targets: syllabus
 
 # Unit: Machine Learning
 
-# Unit: Compilers and interpreters
+# Unit: Compilers and interpreters (1 week)
 
 # Unit: Strings (1 week)
 
