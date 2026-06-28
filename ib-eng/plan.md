@@ -24,7 +24,7 @@ targets: syllabus
 
 ## Hex
 
-##
+## Base conversions
 
 # Unit: CPUs and GPUs
 
