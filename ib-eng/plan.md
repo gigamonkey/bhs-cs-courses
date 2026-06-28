@@ -26,7 +26,7 @@ targets: syllabus
 
 ## Base conversions
 
-##
+## Bitwise operators
 
 # Unit: CPUs and GPUs
 
