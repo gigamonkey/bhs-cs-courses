@@ -32,7 +32,7 @@ targets: syllabus
 
 # Unit: Operating systems (2 weeks)
 
-# Unit: Command line (3 weeks)
+# Unit: Command line (2 weeks)
 
 ## Bash
 
