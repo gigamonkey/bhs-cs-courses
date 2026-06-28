@@ -84,7 +84,7 @@ targets: syllabus
 
 ## Packages
 
-# Unit: Halting problem (2 weeks)
+# Unit: Halting problem (1 week)
 
 ## Turing machines
 
