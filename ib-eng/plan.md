@@ -78,10 +78,6 @@ targets: syllabus
 
 ## Packages
 
-# Unit: Advent of Code (3 weeks)
-
-## Advent of code
-
 # Unit: Halting problem (2 weeks)
 
 ## Turing machines
@@ -109,6 +105,10 @@ targets: syllabus
 ## Reflection
 
 # Unit: Exams (1 week)
+
+# Unassigned lessons
+
+## Advent of code
 
 # Unplaced objectives
 
