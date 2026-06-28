@@ -50,7 +50,7 @@ targets: syllabus
 
 # Unit: Networking
 
-# Unit:
+# Unit: Security and cryptography
 
 # Unit: Strings (1 week)
 
