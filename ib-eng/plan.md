@@ -30,7 +30,7 @@ targets: syllabus
 
 # Unit: CPUs and GPUs (2 weeks)
 
-# Unit: Operating systems
+# Unit: Operating systems (2 weeks)
 
 # Unit: Command line (3 weeks)
 
