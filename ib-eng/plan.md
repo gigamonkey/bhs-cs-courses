@@ -114,7 +114,7 @@ targets: syllabus
 
 # Unit: Exams (1 week)
 
-# Unit: Extra
+# Unit: Extra (1 week)
 
 # Unplaced objectives
 
