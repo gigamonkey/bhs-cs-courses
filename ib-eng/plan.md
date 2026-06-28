@@ -38,7 +38,9 @@ targets: syllabus
 
 ## Parsing
 
-##
+## Interpreting
+
+## Compiling
 
 # Unit: Strings (1 week)
 
