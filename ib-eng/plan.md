@@ -20,7 +20,9 @@ targets: syllabus
 
 ## while loops (#5c93)
 
-## (#cf3a)
+## enhanaced for loops (#cf3a)
+
+## (#5a4b)
 
 # Unit: Down to the bits (2 weeks)
 
