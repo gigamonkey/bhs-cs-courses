@@ -12,6 +12,8 @@ targets: syllabus
 
 ## Java: Numbers and Variables (#1.2)
 
+## (#2c8d)
+
 # Unit: Down to the bits (2 weeks)
 
 ## Ints as a bunch of bits (#2.1)
