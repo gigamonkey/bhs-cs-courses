@@ -20,7 +20,7 @@ targets: syllabus
 
 ## While loops (#5c93)
 
-## enhanaced for loops (#cf3a)
+## Enhanaced for loops (#cf3a)
 
 ## Methods (#5a4b)
 
