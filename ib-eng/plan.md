@@ -14,6 +14,8 @@ targets: syllabus
 
 ## Arithmetic expressions (#2c8d)
 
+## (#d649)
+
 # Unit: Down to the bits (2 weeks)
 
 ## Ints as a bunch of bits (#2.1)
