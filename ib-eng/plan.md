@@ -14,7 +14,9 @@ targets: syllabus
 
 ## Arithmetic expressions (#2c8d)
 
-## (#d649)
+## Boolean expressions and if statements (#d649)
+
+## (#6dd5)
 
 # Unit: Down to the bits (2 weeks)
 
