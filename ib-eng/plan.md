@@ -10,7 +10,7 @@ targets: syllabus
 
 ## Welcome! (#1.1)
 
-## Java: Numbers and Variables (#1.2)
+## Numbers and Variables (#1.2)
 
 ## Arithmetic expressions (#2c8d)
 
