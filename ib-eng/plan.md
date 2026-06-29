@@ -22,7 +22,7 @@ targets: syllabus
 
 ## enhanaced for loops (#cf3a)
 
-## (#5a4b)
+## Methods (#5a4b)
 
 # Unit: Down to the bits (2 weeks)
 
