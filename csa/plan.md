@@ -8,7 +8,7 @@ targets: ced, book
 
 # Unit: Introduction (1 week)
 
-## What is programming? What is Java?
+## What is programming? What is Java? (#1.1)
 
 - Compile and run HelloWorld.java  (#ed5c)
 - Add useful comments to code.  (#938b)
@@ -19,7 +19,7 @@ targets: ced, book
 - Use comments to temporarily disable chunks of code.  (#d5b6)
 - Remove redundant comments from code  (#6581)
 
-## Debugging and being stuck
+## Debugging and being stuck (#1.2)
 
 - Distinguish between compile-time and run-time errors from an error message.  (#aabe)
 - Describe the kinds of errors that can be detected without running the program.  (#08d8)
@@ -31,11 +31,11 @@ targets: ced, book
 - Distinguish between syntax, run-time, and logic errors.  (#e550)
 - List some situations when Java will throw a runtime Exception  (#f6ad)
 
-## Growth mindset and pair programming
+## Growth mindset and pair programming (#1.3)
 
 # Unit: Values, variables, and expressions (2 weeks)
 
-## Values and variables
+## Values and variables (#2.1)
 
 - Distinguish between declaring, initializing, assigning, and using a variable  (#456c)
 - List the three primitive data types we will use in this course.  (#9d51)
@@ -44,7 +44,7 @@ targets: ced, book
 - Describe the kinds of values in, non-computer terms, represented by `int`, `double`, and `boolean`.  (#c979)
 - Distinguish between variables and values.  (#f344)
 
-## Text output
+## Text output (#2.2)
 
 - Write code that reads user input with Scanner  (#0d9d)
 - Explain the difference between string literals and variables  (#243f)
@@ -57,7 +57,7 @@ targets: ced, book
 - State why we can use the String class anywhere.  (#efac)
 - Write string literals with escape characters  (#f057)
 
-## Arithmetic expressions
+## Arithmetic expressions (#2.3)
 
 - Write arithmetic expressions that include variables  (#1cb1)
 - Write expressions using +, -, *, and /  (#32e8)
@@ -70,7 +70,7 @@ targets: ced, book
 - Write expressions using arithmetic operators obeying precedence  (#c220)
 - Explain 2-3 uses of the remainder operator  (#d181)
 
-## Assignment statements
+## Assignment statements (#2.4)
 
 - Write code using += with ints and Strings.  (#1c9c)
 - Evaluate code including assignment statements  (#67ee)
@@ -79,7 +79,7 @@ targets: ced, book
 - Translate code between compound operators and not (incl. ++ & --)  (#cb9a)
 - Explain code that uses post-increment and decrement operators.  (#d3c5)
 
-## Getting math right
+## Getting math right (#2.5)
 
 - Describe the limitations of doubles  (#0bfe)
 - Explain how ints & doubles are an approximation  (#30e1)
@@ -97,7 +97,7 @@ targets: ced, book
 
 # Unit: Methods (2 weeks)
 
-## Writing methods
+## Writing methods (#3.1)
 
 - Write static methods that call other static methods.  (#40d8)
 - Trace code that contains return statements  (#5d29)
@@ -117,13 +117,13 @@ targets: ced, book
 - Explain how method calls affect the flow of control.  (#d33c)
 - Write a `void` method.  (#e386)
 
-## APIs and Libraries
+## APIs and Libraries (#3.2)
 
 - Explain the purpose of import in Java  (#4048)
 - Define "attribute"  (#9bee)
 - Describe the relationship between classes, libraries, & APIs  (#b0ca)
 
-## The `Math` class
+## The `Math` class (#3.3)
 
 - Write expressions to generate random numbers from a speci  (#002c)
 - Write expressions using Math.random() to generate random numbers  (#15d5)
@@ -133,7 +133,7 @@ targets: ced, book
 
 # Unit: Booleans and conditionals (2 weeks)
 
-## Building blocks of algorithms
+## Building blocks of algorithms (#4.1)
 
 - Describe "repetition"  (#0532)
 - Describe the default flow of control in Java code.  (#1367)
@@ -149,7 +149,7 @@ targets: ced, book
 - Describe an algorithm that combines sequencing, selection, and repetition.  (#f5ad)
 - Match "selection" with decisions and "repetition" with looping  (#fefc)
 
-## Booleans and `if` statements
+## Booleans and `if` statements (#4.2)
 
 - Write one-way selections with if  (#0a44)
 - Simplify mutually-exclusive consecutive ifs into chained else ifs  (#1d9a)
@@ -163,7 +163,7 @@ targets: ced, book
 - Write code that uses `if`/`else if`/`else` chains to create multiway branches.  (#e021)
 - Write multi-way selections with if/else if/else  (#f092)
 
-## Where do booleans come from?
+## Where do booleans come from? (#4.3)
 
 - Write expressions using the relational operators <, >, <=, >=  (#3071)
 - Write code to test if a number is even  (#4525)
@@ -174,7 +174,7 @@ targets: ced, book
 - Write chained relational expressions with && as standard form  (#a2f0)
 - Explain the use of short circuiting boolean operators  (#fd15)
 
-## Manipulating boolean expressions
+## Manipulating boolean expressions (#4.4)
 
 - Create truth tables for boolean expressions of 2 & 3 variables  (#671f)
 - Apply De Morgan's laws to boolean expressions  (#8d09)
@@ -183,7 +183,7 @@ targets: ced, book
 - Explain what it means for expressions to be equivalent  (#a9b7)
 - Simplify boolean expressions (2 and 3 variables)  (#b0a1)
 
-## `if` statement traps and pitfalls
+## `if` statement traps and pitfalls (#4.5)
 
 - Explain why you should always use braces with if & else  (#65b9)
 - Explain why else if is an (okay) violation of the always use braces rule  (#c395)
@@ -192,7 +192,7 @@ targets: ced, book
 
 # Unit: Loops (2 weeks)
 
-## While loops
+## While loops (#5.1)
 
 - State when a `while` loop will not run its body at all.  (#14d0)
 - Check loops by checking their bounds.  (#2e82)
@@ -207,7 +207,7 @@ targets: ced, book
 - State when you might want an infinite loop  (#fbcd)
 - Identify infinite while loops  (#fc0d)
 
-## For loops
+## For loops (#5.2)
 
 - Write a canonical reverse for loop that runs N times  (#16f2)
 - Explain the rule of thumb for choosing between while & for loops  (#3612)
@@ -217,7 +217,7 @@ targets: ced, book
 - Write a canonical for loop that runs N times  (#ac4f)
 - Trace the execution of a for loop including the 3 header clauses  (#d2ae)
 
-## Basic loop algorithms
+## Basic loop algorithms (#5.3)
 
 - Write a loop to do something with the digits of an int.  (#1adf)
 - Write a counting loop  (#49b7)
@@ -225,9 +225,9 @@ targets: ced, book
 - Write a summing loop  (#bef5)
 - Write a reducing loop  (#c090)
 
-## Nested loops
+## Nested loops (#5.4)
 
-## Analyzing loops
+## Analyzing loops (#5.5)
 
 - Trace the execution of a nested loop.  (#3284)
 - Compute how many times a for loop will run.  (#4fa8)
@@ -235,7 +235,7 @@ targets: ced, book
 
 # Unit: Arrays (4 weeks)
 
-## Creating and using arrays
+## Creating and using arrays (#6.1)
 
 - Distinguish between modifying an array variable and an array element  (#38aa)
 - List the default values for array elements of different types of array.  (#4474)
@@ -259,7 +259,7 @@ targets: ced, book
 - Distinguish between the two ways of allocating an array with new  (#f5f7)
 - Write code that uses the length property of an array  (#f6cf)
 
-## Looping over arrays
+## Looping over arrays (#6.2)
 
 - Distinguish regular for loops that can be written as enhanced for loops  (#312e)
 - Write regular for loops to traverse arrays  (#899a)
@@ -271,7 +271,7 @@ targets: ced, book
 - Translate between regular and enhanced for loops  (#e0a7)
 - Explain why code in an enhanced for loop can't modify the array  (#ff94)
 
-## Array algorithms
+## Array algorithms (#6.3)
 
 - Write code to detect duplicate elements in an array  (#23c9)
 - Write code to process consecutive pairs of elements in an array  (#6bb0)
@@ -284,7 +284,7 @@ targets: ced, book
 - Write a finding loop  (#eec9)
 - Write code to process all pairs of elements in an array, unordered  (#f087)
 
-## Two-dimensional arrays
+## Two-dimensional arrays (#6.4)
 
 - Explain how a 2D array is just a 1D array in disguise  (#2bb6)
 - State the component type of a 2D array  (#418b)
@@ -298,7 +298,7 @@ targets: ced, book
 - Write code to access individual elements of a 2D array  (#b263)
 - Write code to access individual rows of a 2D array  (#cbf1)
 
-## Two-dimensional array algorithms
+## Two-dimensional array algorithms (#6.5)
 
 - Write code using standard loop algorithms over rows & columns of 2D array  (#474d)
 - Write code to process all elements of a 2D array w/ regular for loops  (#733b)
@@ -308,7 +308,7 @@ targets: ced, book
 
 # Unit: Strings (2 weeks)
 
-## Manipulating strings
+## Manipulating strings (#7.1)
 
 - Define "immutable."  (#299b)
 - Write code to extract a one-character string at an index  (#58fd)
@@ -320,7 +320,7 @@ targets: ced, book
 - Calculate the String and int values returned by String method calls  (#eb6f)
 - Write code that uses String length  (#fa78)
 
-## Implementing string algorithms
+## Implementing string algorithms (#7.2)
 
 - Write a loop over all fixed-size substrings of a String  (#389d)
 - Write a loop over all the characters (as Strings) in a String  (#6e4e)
@@ -332,7 +332,7 @@ targets: ced, book
 
 # Unit: Classes (2 weeks)
 
-## Anatomy of a class
+## Anatomy of a class (#9.1)
 
 - Write a class based on an abstract description.  (#0179)
 - Sketch diagram of how instances and classes relate in memory  (#4382d)
@@ -340,7 +340,7 @@ targets: ced, book
 - Describe the relationship between class attributes, methods, and constructors  (#c982)
 - Explain the difference between allocating & initializing an object.  (#fad5)
 
-## Instance variables
+## Instance variables (#9.2)
 
 - Define "encapsulation"  (#13df)
 - Describe the two main ways instance variables are initialized.  (#2695)
@@ -355,7 +355,7 @@ targets: ced, book
 - Describe how instance variables are used by instance methods.  (#ef0b)
 - Explain the purpose of the null value  (#efab)
 
-## Constructors
+## Constructors (#9.3)
 
 - Identify which overloaded constructor will be invoked by a call.  (#0fad)
 - Evaluate code involving pass by value and changes to local variables.  (#3362)
@@ -376,7 +376,7 @@ targets: ced, book
 - Describe the differences between methods and constructors.  (#f2fb)
 - Write a class with at least one `public` constructor.  (#f783)
 
-## Instance methods
+## Instance methods (#9.4)
 
 - Write void methods that have internal side effects  (#0d0b)
 - Identify which of several overloaded methods will be invoked by a call.  (#1c16)
@@ -396,7 +396,7 @@ targets: ced, book
 
 # Unit: Objects (2 weeks)
 
-## Connecting objects
+## Connecting objects (#10.1)
 
 - Write methods within a class that access `private` instance variables on multiple instances of the class.  (#20eb)
 - State where you can use this as a variable  (#28d9)
@@ -410,7 +410,7 @@ targets: ced, book
 - Explain passing references as arguments in terms of the call stack  (#e8d2)
 - Explain the consequences of passing mutable types by reference  (#f04d)
 
-## Object equality
+## Object equality (#10.2)
 
 - Explain why classes often override equals  (#1f9a)
 - Distinguish between the reference value & object data of an instance.  (#564b)
@@ -423,7 +423,7 @@ targets: ced, book
 - Explain why equals probably doesn't do what we want with arrays.  (#cfa1)
 - Explain the difference between Object.equals & String.equals.  (#dcad)
 
-## Some odds and ends
+## Some odds and ends (#10.3)
 
 - Write correct calls to a static method from inside the class.  (#0a1a)
 - Write a class that declares a `public final static` member variable.  (#11fa)
@@ -447,11 +447,11 @@ targets: ced, book
 - Write static methods that access static member variables.  (#e9f8)
 - Write correct calls to a static method from outside the class.  (#fc34)
 
-## More turtles
+## More turtles (#10.4)
 
 # Unit: ArrayLists (2 weeks)
 
-## `ArrayList` and its methods
+## `ArrayList` and its methods (#11.1)
 
 - Write code to declare an ArrayList of type T  (#14a9)
 - State the relationship between the size() of an ArrayList and its last index  (#26c7)
@@ -461,21 +461,21 @@ targets: ced, book
 - State what happens if you try to use a negative index or one greater than or equal to the size of an `ArrayList` with `get` or `set`  (#ab09)
 - State the import statement needed to use ArrayList  (#d229)
 
-## Wrapper classes
+## Wrapper classes (#11.2)
 
 - Defining unboxing.  (#10d1)
 - State the two places you must use the names of wrapper types  (#2f74)
 - Distinguish between primitive values and wrapper types.  (#8282)
 - Translate code that uses autoboxing/unboxing to explicit boxing.  (#ebee)
 
-## `ArrayList` traversals
+## `ArrayList` traversals (#11.3)
 
 - Write code that uses all the standard loop algorithms with ArrayLists  (#3d15)
 - State what happens if you add or remove items to or from an `ArrayList` while iterating over it with an enhanced `for` loop.  (#7740)
 - State when you must use a regular for loop with an ArrayList  (#9f70)
 - Write code that uses enhanced for loops with ArrayLists  (#cbba)
 
-## `ArrayList` algorithms
+## `ArrayList` algorithms (#11.4)
 
 - Debug code that incorrectly removes elements from an ArrayList  (#092d)
 - Write code to remove elements from an ArrayList  (#423f)
@@ -483,11 +483,11 @@ targets: ced, book
 - Write code to traverse multiple Strings, arrays, or ArrayLists in parallel  (#a809)
 - Write a filtering loop with an ArrayList (copying)  (#eed0)
 
-## Summary and exercises
+## Summary and exercises (#11.5)
 
 # Unit: Data from files (2 weeks)
 
-## Files
+## Files (#12.1)
 
 - Write code to close a Scanner.  (#31ef)
 - Write code to construct a `File` object.  (#5f91)
@@ -497,7 +497,7 @@ targets: ced, book
 - Explain why Scanner.nextLine and other next methods interact badly  (#e072)
 - Explain the purpose of closing a Scanner.  (#f975)
 
-## Data sets
+## Data sets (#12.2)
 
 - Construct tables to represent a dataset  (#2dcf)
 - Write code that uses Integer.parseInt  (#34ef)
@@ -510,7 +510,7 @@ targets: ced, book
 
 # Unit: Algorithms (2 weeks)
 
-## Searching Algorithms
+## Searching Algorithms (#13.1)
 
 - Give examples of O(N) loops and O(N²) loops  (#0594)
 - Write an iterative binary search  (#3dde)
@@ -520,7 +520,7 @@ targets: ced, book
 - Explain what a half-open intervals (is- closed)  (#c6f3)
 - Write code to apply a linear search over a 2d array, row by row and then column by column.  (#f638)
 
-## Sorting algorithms
+## Sorting algorithms (#13.2)
 
 - Write selection sort.  (#7b96)
 - Write insertion sort.  (#93ab)
@@ -528,7 +528,7 @@ targets: ced, book
 - Identify sorting algorithm from code (bubble, insertion, selection, merge)  (#aca3)
 - Demonstrate insertion sort with cards  (#caea)
 
-## Recursion
+## Recursion (#13.3)
 
 - State what mystery recursive methods do.  (#0bf1)
 - Define recursion  (#5c48)
@@ -538,24 +538,24 @@ targets: ced, book
 - Explain return in terms of the call stack  (#c3ea)
 - Write recursive methods over ints, Strings, arrays, and ArrayLists  (#d2c8)
 
-## Recursive searching and sorting
+## Recursive searching and sorting (#13.4)
 
 - Demonstrate merge sort with cards  (#1495)
 - Describe merge sort.  (#7e6f)
 - Write a recursive binary search  (#c3ed)
 - Write merge sort  (#d60c)
 
-## Searching and sorting multiple-choice questions
+## Searching and sorting multiple-choice questions (#13.5)
 
-## Easier searching and sorting MCQs
+## Easier searching and sorting MCQs (#13.6)
 
-## Medium searching and sorting MCQs
+## Medium searching and sorting MCQs (#13.7)
 
-## Hard searching and sorting MCQs
+## Hard searching and sorting MCQs (#13.8)
 
 # Unit: Abstraction and program design (2 weeks)
 
-## Abstraction
+## Abstraction (#14.1)
 
 - List three features of Java that provide data abstraction.  (#133b)
 - Describe what kind of details a procedural abstraction hides.  (#1667)
@@ -571,7 +571,7 @@ targets: ced, book
 - Define "abstraction"  (#cb0a)
 - Explain how procedural abstraction simplifies code.  (#ea8e)
 
-## Documentation and invariants
+## Documentation and invariants (#14.2)
 
 - Define a "class invariant"  (#e175)
 - Explain how preconditions constrain other code.  (#11b3)
@@ -580,7 +580,7 @@ targets: ced, book
 - Write comments documenting a method's pre- and post-conditions.  (#b306)
 - Define preconditions.  (#e803)
 
-## Impact of program design
+## Impact of program design (#14.3)
 
 - Describe ways a dataset can be biased  (#0121)
 - Describe ways you give up some privacy when using software  (#1949)
@@ -594,9 +594,9 @@ targets: ced, book
 
 # Unit: AP practice (4 weeks)
 
-## MCQ practice
+## MCQ practice (#15.1)
 
-## FRQ practice
+## FRQ practice (#15.2)
 
 # Unplaced objectives
 
