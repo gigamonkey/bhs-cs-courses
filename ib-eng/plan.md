@@ -18,7 +18,7 @@ targets: syllabus
 
 ## For loops (#6dd5)
 
-## while loops (#5c93)
+## While loops (#5c93)
 
 ## enhanaced for loops (#cf3a)
 
