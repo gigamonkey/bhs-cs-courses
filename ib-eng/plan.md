@@ -16,7 +16,11 @@ targets: syllabus
 
 ## Boolean expressions and if statements (#d649)
 
-## (#6dd5)
+## for loops (#6dd5)
+
+## while loops (#5c93)
+
+## (#cf3a)
 
 # Unit: Down to the bits (2 weeks)
 
