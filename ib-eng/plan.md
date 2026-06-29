@@ -16,7 +16,7 @@ targets: syllabus
 
 ## Boolean expressions and if statements (#d649)
 
-## for loops (#6dd5)
+## For loops (#6dd5)
 
 ## while loops (#5c93)
 
