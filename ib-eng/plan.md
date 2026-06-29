@@ -10,7 +10,7 @@ targets: syllabus
 
 ## Welcome! (#1.1)
 
-## Java intro/review (#1.2)
+## Java: Numbers and Variables (#1.2)
 
 # Unit: Down to the bits (2 weeks)
 
