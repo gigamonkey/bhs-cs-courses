@@ -22,6 +22,7 @@ targets: ced, book
 
 ## Debugging and being stuck (#c7ee)
 
+- Write bubble sort.  (#4f8f)
 - Distinguish between compile-time and run-time errors from an error message.  (#aabe)
 - Describe the kinds of errors that can be detected without running the program.  (#08d8)
 - Fix common syntax errors in Java code  (#3fc1)
@@ -601,7 +602,6 @@ targets: ced, book
 
 # Unplaced objectives
 
-- Write bubble sort.  (#4f8f)
 - Demonstrate bubble sort with cards  (#51aa)
 - Explain how copyright applies to software  (#c998)
 - Explain the difference between a primitive and a reference type in terms of the stack and the heap.  (#fa61)
