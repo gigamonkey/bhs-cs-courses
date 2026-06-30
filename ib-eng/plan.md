@@ -44,33 +44,27 @@ targets: syllabus
 
 ## What the CPU does (#9b13)
 
-# Unit: Operating systems (2 weeks)
-
-# Unit: Command line (2 weeks)
-
-## Bash (#7c08)
-
-## Treasure hunt (#43b5)
-
-# Unit: Databases (3 weeks)
-
-## One more day of bash (#56db)
-
-## Intro to SQL (#067d)
-
-# Unit: Exams (3 weeks)
-
-## Review (#e042)
-
-## (#ad7f)
-
-# Unit: Machine Learning (2 weeks)
-
 # Unit: Interfaces and Collections (1 week)
 
 ## Interfaces (#37fb)
 
+## Generic types (#d433)
+
+# Unit: Records and Enums (1 week)
+
+## Project (#a6b5)
+
+# Unit: Recursion (2 weeks)
+
+## Recursion (#1bea)
+
+# Unit: Streams and functional interfaces
+
 ## Streams (#5fa9)
+
+# Unit: Exceptions and invariants (1 week)
+
+## Packages (#df45)
 
 # Unit: Compilers and interpreters (1 week)
 
@@ -80,21 +74,27 @@ targets: syllabus
 
 ## Compiling (#79e8)
 
-# Unit: Records and Enums (2 weeks)
+# Unit: Review (3 weeks)
 
-## Project (#a6b5)
+## Review (#e042)
 
-# Unit: Exceptions and invariants (2 weeks)
+## (#ad7f)
 
-## Packages (#df45)
+# Unit: Operating systems (2 weeks)
 
-# Unit: Generic types (2 weeks)
+# Unit: Command line (2 weeks)
 
-## Generic types (#d433)
+## Bash (#7c08)
 
-# Unit: Recursion (2 weeks)
+## Treasure hunt (#43b5)
 
-## Recursion (#1bea)
+# Unit: Machine Learning (3 weeks)
+
+# Unit: Databases (3 weeks)
+
+## One more day of bash (#56db)
+
+## Intro to SQL (#067d)
 
 # Unit: IA/Independent projects (2 weeks)
 
@@ -104,15 +104,11 @@ targets: syllabus
 
 # Unit: Security and cryptography
 
+# Unit: Review (3 weeks)
+
 # Unit: Halting problem (1 week)
 
 ## Turing machines (#48b3)
-
-# Unit: Group project (1 week)
-
-## Double dispatch (#ab84)
-
-## Adventure game (#a5f6)
 
 # Unit: Reflection (2 weeks)
 
@@ -123,6 +119,10 @@ targets: syllabus
 # Unit: Exams (1 week)
 
 # Unassigned lessons
+
+## Double dispatch (#ab84)
+
+## Adventure game (#a5f6)
 
 ## Regexps (#9104)
 
