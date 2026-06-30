@@ -90,13 +90,13 @@ targets: syllabus
 
 ## Recursion (#1bea)
 
-# Unit: IA/Independent projects (2 weeks)
-
-## Project (#3d95)
-
 # Unit: Networking
 
 # Unit: Security and cryptography
+
+# Unit: IA/Independent projects (2 weeks)
+
+## Project (#3d95)
 
 # Unit: Halting problem (1 week)
 
