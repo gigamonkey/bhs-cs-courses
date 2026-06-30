@@ -74,13 +74,13 @@ targets: syllabus
 
 ## Compiling (#79e8)
 
-# Unit: Review (3 weeks)
+# Unit: Operating systems (1 week)
+
+# Unit: Review (3 weeks) (ends week 18)
 
 ## Review (#e042)
 
 ## (#ad7f)
-
-# Unit: Operating systems (2 weeks)
 
 # Unit: Command line (2 weeks)
 
@@ -96,17 +96,17 @@ targets: syllabus
 
 ## Intro to SQL (#067d)
 
-# Unit: IA/Independent projects (2 weeks)
-
-## Project (#3d95)
-
 # Unit: Networking
 
 # Unit: Security and cryptography
 
-# Unit: Review (3 weeks)
+# Unit: IA/Independent projects (2 weeks)
 
-# Unit: Halting problem (1 week)
+## Project (#3d95)
+
+# Unit: IB exam review/projects (3 weeks)
+
+# Unit: Halting problem (2 weeks)
 
 ## Turing machines (#48b3)
 
