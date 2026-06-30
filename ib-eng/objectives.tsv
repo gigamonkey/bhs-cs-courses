@@ -1,10 +1,122 @@
 uuid	text
+03bf497c-ad87-425a-b66a-aef2002249d3	Describe the concept of compression.
+07e22df5-9b35-43c1-b429-7eaf3b8d37fd	Compare types of media for data transmission.
+08a67fc3-4eb8-47d4-aef9-3321d4ea59c3	Explain the primary objectives of data warehouses in data management and business intelligence.
+0a4e161d-21b5-40ac-ab6b-278a0db5892e	Explain the properties and purpose of ADTs in programming.
+0aa34ee4-eeea-4bc6-8eac-c447ec442bed	Construct code to perform file-processing operations.
+0b4ccd1c-067d-4548-893a-6bf01b00c791	Construct and trace algorithms to implement a linear search and a binary search for data retrieval.
+0ca28b1c-326a-4bc7-990b-8e8640cb5e0f	Construct and use common debugging techniques.
+0f3e0393-5d4d-4ef2-848e-5b8957f5e8d8	Construct and trace recursive algorithms in a programming language. (HL only)
+11c046d8-c217-4f5d-9205-673538d47c1c	Compare and contrast networking models.
+136e5e5e-cdf1-45f0-ba01-0685fd6208b2	Explain the fundamental concept of recursion and its applications in programming. (HL only)
+13c1bb73-671b-45e6-be5d-d704db70c8a3	Explain how packet switching is used to send data across a network.
+13fb542e-80c2-46cc-bec2-e5a45cd9dff7	Describe the role of a GPU.
+17f29286-82a7-42ca-8a43-331b68db1d4b	Construct programs that implement the correct sequence of code instructions to meet program objectives.
+1829b521-4715-4101-83f9-320aa9e127c8	Describe common network countermeasures. (HL only)
+19b65586-ca9e-4ebd-a9e3-9ce822478bb9	Explain the role of hyperparameter tuning when evaluating supervised learning algorithms.
+1a886b5e-d6e6-4b34-9871-55731f558ade	Describe how programs use common exception handling techniques.
+1ab43281-5561-459c-8b97-e5b3ca5e1a27	Explain how SQL can be used to update data in a database.
+27b09852-5644-4d84-b8c8-e66b0d670990	Describe different types of IP addressing.
+291af902-b085-4354-a1ab-68966b704dec	Outline the differences between data language types within SQL.
+29851497-50d9-48f8-bc0b-80392e4f2095	Describe the purpose and use of logic gates.
+2e9d642a-b23c-4120-b52a-d5018def8dde	Explain the concept of abstraction in OOP.
 2ea0fd3d-450c-4ed7-bd35-dbd5a0aa04c2	Describe the notional instruction register (IR)
+2ed7bb94-1514-425e-953f-7e7a6a7144ea	Describe the application of genetic algorithms in various real-world situations.
 3178dfde-f005-48e4-b74b-df281da998b1	Explain the three busses that connect the CPU and RAM.
+3a5566c3-789c-46ba-a3ad-480d0456fba0	Describe the hardware requirements for various scenarios where machine learning is deployed.
+3ab18c7d-1327-4033-b76a-f660f942507e	Describe the different types of services in cloud computing.
+424487e8-81bb-49cf-af2a-d393756d6d84	Compare different approaches to scheduling.
+473555ab-933e-485c-95f9-206cdb079b59	Distinguish between static and non-static variables and methods.
+489337f1-e898-4a05-9fd4-0136c18cb70f	Explain the concept of a queue as a “first in, first out” (FIFO) data structure.
+48e4ad5e-b374-47f5-817d-1352ea1d016d	Construct and trace programs using a range of global and local variables of various data types.
+4a28eec8-effd-4c53-974b-5e5db3bfb75b	Construct a design of classes, their methods and behaviour.
+4a5237f4-83a5-4619-ba45-e5d7899da085	Explain how linear regression is used to predict continuous outcomes.
+4adde00c-b7f0-4942-9b81-46549cadd692	Describe how CNNs are designed to adaptively learn spatial hierarchies of features in images.
+4e4a256f-d60a-4c8b-87a4-32fefeeb573e	Describe the functions and interactions of the main CPU components.
+50086808-9eb0-41fe-89f0-0b13c03097bd	Describe the significance of data cleaning.
+5305fe1d-fa30-44cb-b299-fd4dc4342dbc	Construct a problem specification.
+5323d2d6-7e88-47ef-a05f-f545a0ab74d2	Explain commonly used design patterns in OOP.
+554c0742-1cb7-4ab0-b5be-06b7832d0954	Construct and analyse truth tables.
+573f7be5-e3fc-4fdd-af26-2533ed00f8e9	Describe the role of operating systems.
+5a2b4a0f-d870-4ff9-83fc-12478766328b	Describe the role of feature selection.
+5a315a4b-167a-4d7c-8e1e-c13fd1576269	Describe how clustering techniques in unsupervised learning are used to group data based on similarities in features.
+5c6f3092-e737-4945-859f-4381bc1d1197	Evaluate the fundamentals of OOP.
+5dd0f564-d0f7-406d-a0f3-8efad01dfd05	Evaluate the translation processes of interpreters and compilers.
+5ffc611f-bab7-4c2a-87df-14a9582aab3a	Explain the structures and properties of BSTs.
+6198a79c-ae2e-4e06-bb42-b28057c6463f	Describe how transactions maintain data integrity in a database. (HL only)
+62b5cc42-02ff-4696-9503-c9c8085fa252	Construct code to define classes and instantiate objects.
+6487d29b-c8b3-40dc-a98c-1f0cd209990b	Construct functions and modularization.
+6532bfff-2274-40a8-8e13-9a7e7c72bf1f	Explain the features, benefits and limitations of a relational database.
+65990ea0-bfb9-4fcd-9cd8-1e7c15663e22	Describe the function of servers. (HL only)
+666bb656-cab7-46b0-a118-9e9295224be0	Explain how applying computational thinking to fundamental concepts is used to approach and solve problems in computer science.
 66d58271-4cf2-4603-9f65-70d692620ea4	Describe the notional memory address register (MAR)
+66d6e483-ea7d-4adc-8b74-48d3403ecdcb	Explain the concept of a stack as a “last in, first out” (LIFO) data structure.
+6a8069a7-5db5-4909-9e5f-d93639453e62	Evaluate the use of polling and interrupt handling.
+6b48317f-a8c6-4e89-8538-fd993c5ae793	Construct ERDs.
+6fd60334-2199-4aec-9f07-d37256e3179b	Describe different database views. (HL only)
+7137f7f2-2413-415a-8fff-23f13a4a2906	Construct programs utilizing appropriate selection structures.
 7283a3e6-9dfd-4d11-a3ca-32b647b9cc78	Describe the purpose program counter (PC).
+77e0b7bc-a61d-4fe8-a04a-04b219f69ef5	Describe the use of the control system components. (HL only)
+7d720bc3-5d1b-4707-9d99-16389745ba9d	Outline the different data types used in relational databases.
+825185bf-ee8d-42b2-b5b7-da304a9293cf	Discuss ethical aspects of the increasing integration of computer technologies into daily life.
 82f870fd-0b5a-4625-b69b-3fc062e0561b	Describe the notional memory data register (MDR)
+842dc386-fa69-42bf-9f44-a0752036dfa5	Describe the efficiency of specific algorithms by calculating their Big O notation to analyse their scalability.
+855fbd89-20e1-4309-aca8-466fd58a9e19	Describe the purpose and characteristics of networks.
+88a3fb5c-f71b-4f66-86a5-3d5f0e3a3448	Explain the role of composition and aggregation in class relationships.
+8c69de83-18c5-47be-a93e-2e2f2a9704a9	Explain the importance of model selection and comparison in machine learning.
+9328b158-6cdb-4ce9-b1e7-d2429c5196e8	Describe the features of distributed databases.
+9609e02a-744a-4fff-a01c-999a835d34dd	Construct calculations within a database using SQL’s aggregate functions. (HL only)
+9d456b4f-eb14-4743-839e-1366b5adc17d	Describe the process of pipelining in multi-core architectures. (HL only)
+9d48c431-c2c5-4f74-802f-951094ec9a43	Outline the structure and function of ANNs and how multi-layer networks are used to model complex patterns in data sets.
+9d81fbdc-eeb6-4c74-8731-50c77aa8070a	Describe the function of the TCP/IP model. (HL only)
 9ea83a4c-9c41-4392-9c6e-9b13850f7e0d	Explain why modern CPUs don't have an accumulator (AC)
 9f31caed-dae3-4523-b48c-d89f51ef232e	Describe the purpose of the Arithmetic Logic Unit (ALU).
+a035da10-1cc7-4cf4-8810-603a19fd7b4f	Describe the importance of dimensionality reduction.
+a1b01df0-a60f-449f-9668-46701b6b4a21	Construct and trace algorithms to implement bubble sort and selection sort, evaluating their time and space complexities.
+a24453e6-e9d9-40d6-beae-ec55a89ac942	Describe database schemas.
+a4c24455-f56d-4895-a31f-3dd01b4eee2c	Explain and apply the concept of inheritance in OOP to promote code reusability.
+a5873b6d-6939-42b1-907b-b044bf3f67d7	Discuss the ethical implications of machine learning in real-world scenarios.
+a61bae70-22a8-4ae8-85d1-87ec17b35b75	Construct and apply sets as an ADT.
+a69123bf-f4d7-4aed-89fc-3b7121325aff	Describe the process of encryption and digital certificates.
+a71a3ef8-d158-44bc-8d64-a1fc6f43253d	Describe common network vulnerabilities. (HL only)
+a777cede-2f9a-4736-889a-1a1dec3a4c45	Explain and apply the concepts of encapsulation and information hiding in OOP.
+a85d6d9a-1ac2-4387-9a5f-be55c7dd7036	Explain the differences between the CPU and the GPU. (HL only)
+a90d8139-a4af-413c-b4db-89f5e941838c	Explain how classifications techniques in supervised learning are used to predict discrete categorical outcomes.
+aada5189-a865-4ea9-b7c4-ae92cc962bbf	Describe the network protocols used for transport and application.
+ad2f0129-2e92-48c5-b936-b16982419cfe	Construct programs that apply arrays and Lists.
+aed14460-0926-4fe3-bc25-0510a621f61c	Describe the functions of an operating system.
+af4c4f8f-6c8e-4d75-8ecf-b2da95b8d25e	Explain the use of control systems in a range of real-world applications. (HL only)
+b07a5af4-891d-4752-a119-e8383a752ac0	Explain the role of the operating system in managing multitasking and resource allocation. (HL only)
+b0d1e704-3070-4a35-b91f-80d845bb7044	Explain the difference between normal forms.
+b167bc42-faa7-4125-ad55-21ac667dd852	Explain how binary is used to store data.
+b4b75b2e-7609-483c-b33f-bab39536da33	Describe the function of network devices.
+b614b1d9-b023-4e9c-8862-b276e12a2ecb	Describe internal and external types of secondary memory storage.
+b68d0ffb-c494-4feb-b47e-c4726ddd6b96	Construct programs that can extract and manipulate substrings.
+b78793f0-dbf6-4997-8fbd-edb61ff48fb5	Construct a database normalized to 3NF for a range of real-world scenarios.
+ba0eb237-28f8-4330-a895-eaa5a50f825c	Construct logic diagrams.
+bb3a7410-c05c-4da9-ac54-5e2a9ceec403	Evaluate linked lists.
+c00a95d2-63a7-4d4a-8d63-c3418fbc858a	Evaluate the need for denormalizing databases.
+c8bf7a3e-3cf1-4a08-bdf4-a13ca5afaedc	Discuss the effectiveness of firewalls at protecting a network.
+c95e7692-b998-4b17-8cac-ff7ad436ade8	Construct tables for relational databases.
+cb08cea9-76fa-4953-b95f-22ffe03592cc	Describe how learning techniques using the association rule are used to uncover relations between different attributes in large data sets.
+cc936bfd-5589-4ed0-836e-9df76df92bcf	Outline the different types of databases as approaches to storing data.
+cda89372-ef30-4b17-a334-c4a44519df2b	Explain the concepts and applications of network segmentation.
+cedafc04-766b-4ebd-9dc3-7e55362fe2d4	Construct queries between two tables in SQL.
+d0e4063f-3b9b-43ed-baf8-1a1a083331ad	Describe the principal methods of representing data.
+d47988b9-7f92-4828-b6bb-86974fb31ab7	Describe the purpose, benefits and limitations of modern digital infrastructures.
+d53b05ab-7440-46e9-9442-5c9272af8431	Explain the purposes of different types of primary memory.
+d64c1c5f-9bfe-49b1-ad95-69cfbc61a4ca	Describe the fetch, decode and execute cycle.
+e2025696-48c1-4f36-afd0-c8614b649c35	Construct code to model polymorphism and its various forms, such as method overriding.
+e39634dc-3372-4b58-b0fb-2a32ab1fb485	Construct programs that utilize looping structures to perform repeated actions.
+e6e33345-e71b-44a9-a2a7-086c754acf6b	Explain the core principles of ADTs.
+e6ead52f-7e30-4f8b-8dab-7eb240d2c57c	Describe the fundamental concepts of computational thinking.
+e872572b-d31d-4e84-9124-6885f4fc7672	Construct and apply linked lists: singly, doubly and circular.
+ec5a79ed-67f6-40b4-ac74-2d804d7f4b65	Describe the functions and practical applications of network topologies.
+eccdc2a8-4e1c-4c0a-a732-3c5be83895fa	Describe the types of machine learning and their applications in the real world.
+edc38cd7-8283-448e-9242-0cc3680ef7df	Explain how static routing and dynamic routing move data across local area networks. (HL only)
 eeb70d8b-c8b4-47eb-b9cc-9ff68f37f6a4	Describe the purpose of the Control Unit (CU) on the CPU.
+f1033b19-5b5a-45c7-bf0e-cad6313d267c	Explain the role of online analytical processing (OLAP) and data mining for business intelligence.
+f13b4ca3-c6e2-43a4-8c3a-0a6be7437e61	Trace flowcharts for a range of programming algorithms.
+f505c537-7a73-4779-83af-f5323ca94143	Describe how an agent learns to make decisions by interacting with its environment in reinforcement learning.
 f6a20898-0990-43c9-a929-a80a758648a1	List some ops that affect the program counter.
+f907f22b-efab-44f1-91c9-10f0bcdc532b	Compare static and dynamic data structures.
