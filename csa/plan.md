@@ -27,6 +27,7 @@ targets: ced, book
 - Describe the kinds of errors that can be detected without running the program.  (#08d8)
 - Fix common syntax errors in Java code  (#3fc1)
 - Describe some errors that cannot be detected until we run the program.  (#4c1e)
+- Demonstrate bubble sort with cards  (#51aa)
 - Identify missing semicolons and extraneous semicolons  (#a33b)
 - Describe the difference between compile-time and run-time errors  (#bb26)
 - Distinguish between syntax & type errors.  (#c9ea)
@@ -602,6 +603,5 @@ targets: ced, book
 
 # Unplaced objectives
 
-- Demonstrate bubble sort with cards  (#51aa)
 - Explain how copyright applies to software  (#c998)
 - Explain the difference between a primitive and a reference type in terms of the stack and the heap.  (#fa61)
