@@ -7,6 +7,12 @@ title: Welcome!
 
 Know the names of your classmates.
 
+## Key ideas
+
+- Algorithms are all around us
+- Choosing algorithms matter
+- Learning requires thinking about things and practicing recalling them
+
 ## Guided practice
 
 Round 1: Form groups of four. Introduce yourselves and share one fun fact each about yourself or about something you did this summer. When I tell you, you'll form a new group. However, you must be in a group with all new people. Figure it out. Then repeat.
