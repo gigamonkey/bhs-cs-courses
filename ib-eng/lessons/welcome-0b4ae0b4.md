@@ -17,7 +17,7 @@ Know the names of your classmates.
 
 Move the island tables out of the way to we have plenty of room.
 
-Round 0: Practice forming pairs. Raise your hand. Find the nearest person who's hand is up and pair up with them. Both put your hands down. 
+Round 0: Practice forming pairs. Raise your hand. Find the nearest person who's hand is up and pair up with them. Both put your hands down. Practice this a few times.
 
 Round 1: Form random pairs. Introduce yourselves. Say the other person's name. Correct your partner if they get it wrong or mispronounce it. When I tell you, everybody will raise their hand. Then when I say go, pick the nearest person with their hand up who you haven't been paired with already. Once you've paired up, put your hands down so other students know you've been paired up. No swapping after that. We'll repeat until everyone has met or somebody can't find a new partner.
 
