@@ -7,6 +7,14 @@ title: Welcome!
 
 Know the names of your classmates.
 
+## Guided practice
+
+Round 1: Form groups of four. Introduce yourselves and share one fun fact each about yourself or about something you did this summer. When I tell you, you'll form a new group. However, you must be in a group with all new people. Figure it out. Then repeat.
+
+Round 2: Speed introductions. Move the island tables out of the way and line up in two lines in the center of the room facing each other. Your partner is the person across from each other. Introduce yourself and share a fun fact. When I tell you, rotate one position. (Except the anchor person.) (10 seconds per rotation.) Try to remember as many names as you can.
+
+Round 3: Gossip protocol. Pick a random person. Make sure you know each other's names. Then spend a minute naming as many of the other students in the room as you can. Try to learn any names your partner knew that you didn't. When I tell you, pick a new random partner and repeat. (30-60 seconds per rotation).
+
 ## Independent practice
 
 Round 1: Look around the room and on your whiteboard, write down the names of each person whose name you know. After a minute, you will have a chance to compare notes with your neighbors and see if you can fill in any blanks any of you have.
