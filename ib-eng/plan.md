@@ -8,51 +8,65 @@ targets: syllabus
 
 # Unit: Programming basics (2 weeks)
 
-## Welcome!
+## Welcome! (#0b4a)
 
-## Java intro/review (7 days)
+## Numbers and Variables (#648a)
+
+## Arithmetic expressions (#2c8d)
+
+## Boolean expressions and if statements (#d649)
+
+## For loops (#6dd5)
+
+## While loops (#5c93)
+
+## Enhanaced for loops (#cf3a)
+
+## Methods (#5a4b)
 
 # Unit: Down to the bits (2 weeks)
 
-## Ints as a bunch of bits
+## Ints as a bunch of bits (#9a38)
 
-## Bitwise operators (2 days)
+## Bitwise operators (2 days) (#4e96)
 
-## Bit twiddling (2 days)
+## Bit twiddling (2 days) (#8166)
 
-## Binary
+## Binary (#0e58)
 
-## Hex
+## Hex (#0313)
 
-## Base conversions
+## Base conversions (#d7ca)
 
-## String encoding (2 days)
+## String encoding (2 days) (#75ed)
 
 # Unit: CPUs and GPUs (2 weeks)
+
+## What the CPU does (#9b13)
 
 # Unit: Operating systems (2 weeks)
 
 # Unit: Command line (2 weeks)
 
-## Bash
+## Bash (#7c08)
 
-## Treasure hunt
+## Treasure hunt (#43b5)
 
 # Unit: Databases (3 weeks)
 
-## One more day of bash
+## One more day of bash (#56db)
 
-## Intro to SQL
+## Intro to SQL (#067d)
 
 # Unit: Machine Learning (2 weeks)
 
 # Unit: Compilers and interpreters (1 week)
 
-## Parsing
+## Parsing (#2036)
 
-## Interpreting
+## Interpreting (#68dc)
 
-## Compiling
+## Compiling (#79e8)
 
 # Unit: Networking
 
@@ -60,53 +74,53 @@ targets: syllabus
 
 # Unit: IA/Independent projects (4 weeks)
 
-## Project
+## Project (#3d95)
 
 # Unit: Interfaces and Collections (2 weeks)
 
-## Interfaces
+## Interfaces (#37fb)
 
-## Streams
+## Streams (#5fa9)
 
 # Unit: Generic types (2 weeks)
 
-## Generic types
+## Generic types (#d433)
 
 # Unit: Records and Enums (2 weeks)
 
-## Project
+## Project (#a6b5)
 
 # Unit: Exceptions and invariants (2 weeks)
 
-## Packages
+## Packages (#df45)
 
 # Unit: Halting problem (1 week)
 
-## Turing machines
+## Turing machines (#48b3)
 
 # Unit: Recursion (2 weeks)
 
-## Recursion
+## Recursion (#1bea)
 
 # Unit: Group project (1 week)
 
-## Double dispatch
+## Double dispatch (#ab84)
 
-## Adventure game
+## Adventure game (#a5f6)
 
 # Unit: Reflection (2 weeks)
 
-## Group project wrap up
+## Group project wrap up (#0664)
 
-## Reflection
+## Reflection (#1104)
 
 # Unit: Exams (1 week)
 
 # Unassigned lessons
 
-## Regexps
+## Regexps (#9104)
 
-## Advent of code
+## Advent of code (#33c8)
 
 # Unplaced objectives
 
