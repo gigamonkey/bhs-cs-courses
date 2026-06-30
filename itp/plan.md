@@ -7,104 +7,104 @@ calendar: bhs-2026-2027
 
 # Unit: Welcome (1 week)
 
-## Welcome! (#1.1)
+## Welcome! (#7f05)
 
-## What is programming? (2 days) (#1.2)
+## What is programming? (2 days) (#93c2)
 
 # Unit: Variables and functions (2 weeks)
 
-## Using variables and functions (2 days) (#2.1)
+## Using variables and functions (2 days) (#f587)
 
-## Defining variables (3 days) (#2.2)
+## Defining variables (3 days) (#4bab)
 
-## Writing functions (5 days) (#2.3)
+## Writing functions (5 days) (#d89b)
 
 # Unit: Numbers (2 weeks)
 
-## Math inside out (4 days) (#3.1)
+## Math inside out (4 days) (#95c5)
 
-## Animations (5 days) (#3.2)
+## Animations (5 days) (#5fc5)
 
 # Unit: Control constructs: conditionals (2 weeks)
 
-## Booleans (2 days) (#4.1)
+## Booleans (2 days) (#73a6)
 
-## if statements (3 days) (#4.2)
+## if statements (3 days) (#df99)
 
-## Practice (5 days) (#4.3)
+## Practice (5 days) (#492e)
 
 # Unit: Control constructs: loops (2 weeks)
 
-## Image gallery (5 days) (#5.1)
+## Image gallery (5 days) (#b99b)
 
-## Control constructs review (4 days) (#5.2)
+## Control constructs review (4 days) (#266a)
 
 # Unit: Strings (2 weeks)
 
-## Strings (9 days) (#6.1)
+## Strings (9 days) (#064a)
 
 # Unit: Arrays (2 weeks)
 
-## Strings test (#7.1)
+## Strings test (#eabe)
 
-## Arrays (8 days) (#7.2)
+## Arrays (8 days) (#80c4)
 
 # Unit: Project (2 weeks)
 
-## Tic tac toe (9 days) (#8.1)
+## Tic tac toe (9 days) (#a7f0)
 
 # Unit: Review for exam (3 weeks)
 
-## Speedruns (5 days) (#9.1)
+## Speedruns (5 days) (#246f)
 
-## Review and speedruns (7 days) (#9.2)
+## Review and speedruns (7 days) (#8bcb)
 
 # Unit: HTML and CSS (2 weeks)
 
-## Codespaces (#10.1)
+## Codespaces (#28ab)
 
-## HTML (4 days) (#10.2)
+## HTML (4 days) (#43ec)
 
-## CSS (5 days) (#10.3)
+## CSS (5 days) (#06cf)
 
 # Unit: Web project (2 weeks)
 
-## Project (8 days) (#11.1)
+## Project (8 days) (#1bc7)
 
 # Unit: DOM and events (3 weeks)
 
-## Web project wrap up (6 days) (#12.1)
+## Web project wrap up (6 days) (#d275)
 
-## Events (7 days) (#12.2)
+## Events (7 days) (#dbcf)
 
 # Unit: Web game (3 weeks)
 
-## Web UI (5 days) (#13.1)
+## Web UI (5 days) (#f09b)
 
-## Game project (10 days) (#13.2)
+## Game project (10 days) (#6cda)
 
 # Unit: Objects and higher order functions (2 weeks)
 
-## Objects (9 days) (#14.1)
+## Objects (9 days) (#6a1a)
 
 # Unit: Video game projects (3 weeks)
 
-## Video game (15 days) (#15.1)
+## Video game (15 days) (#c0a8)
 
 # Unit: Refactoring (1 week)
 
-## Refactoring (5 days) (#16.1)
+## Refactoring (5 days) (#3658)
 
 # Unit: HOFs (1 week)
 
-## Refactoring (#17.1)
+## Refactoring (#67e2)
 
-## HOFs (3 days) (#17.2)
+## HOFs (3 days) (#bf15)
 
-## Final project (#17.3)
+## Final project (#4741)
 
 # Unit: Final project (3 weeks)
 
-## Final project (14 days) (#18.1)
+## Final project (14 days) (#4bb0)
 
 # Unit: Exams (1 week)
