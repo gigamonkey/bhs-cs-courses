@@ -68,20 +68,6 @@ targets: syllabus
 
 ## Compiling (#79e8)
 
-# Unit: Networking
-
-# Unit: Security and cryptography
-
-# Unit: IA/Independent projects (4 weeks)
-
-## Project (#3d95)
-
-# Unit: Interfaces and Collections (2 weeks)
-
-## Interfaces (#37fb)
-
-## Streams (#5fa9)
-
 # Unit: Generic types (2 weeks)
 
 ## Generic types (#d433)
@@ -94,13 +80,27 @@ targets: syllabus
 
 ## Packages (#df45)
 
-# Unit: Halting problem (1 week)
+# Unit: Interfaces and Collections (2 weeks)
 
-## Turing machines (#48b3)
+## Interfaces (#37fb)
+
+## Streams (#5fa9)
 
 # Unit: Recursion (2 weeks)
 
 ## Recursion (#1bea)
+
+# Unit: IA/Independent projects (2 weeks)
+
+## Project (#3d95)
+
+# Unit: Networking
+
+# Unit: Security and cryptography
+
+# Unit: Halting problem (1 week)
+
+## Turing machines (#48b3)
 
 # Unit: Group project (1 week)
 

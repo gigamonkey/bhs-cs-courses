@@ -32,3 +32,7 @@ Round 4: Gossip protocol. Pick a random person. Make sure you know each other's 
 Round 1: Look around the room and on your whiteboard, write down the names of each person whose name you know. After a minute, you will have a chance to compare notes with your neighbors and see if you can fill in any blanks any of you have.
 
 Round 2: wipe your whiteboard and do it again.
+
+## Summation
+
+How many names do you think you know? How many do you think you'll still know at the start of class tomorrow? What can you do to increase that number?
