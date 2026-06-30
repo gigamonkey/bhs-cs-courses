@@ -6,7 +6,7 @@ calendar: bhs-2026-2027
 targets: syllabus
 ---
 
-# Unit: Programming basics (2 weeks)
+# Unit: Programming basics (3 weeks)
 
 ## Welcome! (#0b4a)
 
@@ -28,7 +28,7 @@ targets: syllabus
 
 ## Ints as a bunch of bits (#9a38)
 
-## Bitwise operators (2 days) (#4e96)
+## Bitwise operators (#4e96)
 
 ## Bit twiddling (2 days) (#8166)
 
@@ -58,7 +58,19 @@ targets: syllabus
 
 ## Intro to SQL (#067d)
 
+# Unit: Exams (3 weeks)
+
+## Review (#e042)
+
+## (#ad7f)
+
 # Unit: Machine Learning (2 weeks)
+
+# Unit: Interfaces and Collections (1 week)
+
+## Interfaces (#37fb)
+
+## Streams (#5fa9)
 
 # Unit: Compilers and interpreters (1 week)
 
@@ -68,10 +80,6 @@ targets: syllabus
 
 ## Compiling (#79e8)
 
-# Unit: Generic types (2 weeks)
-
-## Generic types (#d433)
-
 # Unit: Records and Enums (2 weeks)
 
 ## Project (#a6b5)
@@ -80,23 +88,21 @@ targets: syllabus
 
 ## Packages (#df45)
 
-# Unit: Interfaces and Collections (2 weeks)
+# Unit: Generic types (2 weeks)
 
-## Interfaces (#37fb)
-
-## Streams (#5fa9)
+## Generic types (#d433)
 
 # Unit: Recursion (2 weeks)
 
 ## Recursion (#1bea)
 
-# Unit: Networking
-
-# Unit: Security and cryptography
-
 # Unit: IA/Independent projects (2 weeks)
 
 ## Project (#3d95)
+
+# Unit: Networking
+
+# Unit: Security and cryptography
 
 # Unit: Halting problem (1 week)
 
