@@ -13,13 +13,19 @@ Know the names of your classmates.
 - Choosing algorithms matter
 - Learning requires thinking about things and practicing recalling them
 
+## Expert thinking
+
+Discuss how we want every pair in the group to meet. If we go through multiple rounds and in each round you pair up with a new person, how many rounds will it take for you to meet everyone if there are 30 people in the class? (30 - 1 = 29). And if in every round everyone pairs up with someone new, how many rounds will it take? (The same.) Write the number on the whiteboard.
+
+But it's maybe not clear the best way to efficiently pair everyone off. Any scheme to do so is an algorithm. We're going to try a few.
+
 ## Guided practice
 
 Move the island tables out of the way to we have plenty of room.
 
 Round 0: Practice forming pairs. Raise your hand. Find the nearest person who's hand is up and pair up with them. Both put your hands down. Practice this a few times.
 
-Round 1: Form random pairs. Introduce yourselves. Say the other person's name. Correct your partner if they get it wrong or mispronounce it. When I tell you, everybody will raise their hand. Then when I say go, pick the nearest person with their hand up who you haven't been paired with already. Once you've paired up, put your hands down so other students know you've been paired up. No swapping after that. We'll repeat until everyone has met or somebody can't find a new partner.
+Round 1: Form random pairs. Show each other the number on your card and write the other person's number on yours. (This is to keep track later if you've been paired with them before.) Introduce yourselves. Say the other person's name. Correct your partner if they get it wrong or mispronounce it. When I tell you, everybody will raise their hand. Then when I say go, pick the nearest person with their hand up who you haven't been paired with already. (Show each other your numbers and make sure you haven't paired up before.) Just pick the nearest person you can find; we need to keep things moving. Don't worry about other pairs; just find someone you haven't paired up with. Once you've paired up, put your hands down so other students know you've been paired up. Write your new partner's number on your card. We'll repeat until everyone has met or somebody can't find a new partner.
 
 Round 2: Speed introductions. Line up in two lines in the center of the room facing each other. Your partner is the person across from each other. Introduce yourself and and say each other's names. When I tell you, rotate one position. (Except the anchor person.) (10 seconds per rotation.) Try to remember as many names as you can.
 
