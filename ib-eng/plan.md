@@ -24,6 +24,8 @@ targets: syllabus
 
 ## Methods (#5a4b)
 
+## Classes (#1ff4)
+
 # Unit: Down to the bits (2 weeks)
 
 ## Ints as a bunch of bits (#9a38)
@@ -62,15 +64,11 @@ targets: syllabus
 
 ## Recursion (#1bea)
 
-# Unit: Streams and functional interfaces
-
-## Streams (#5fa9)
-
 # Unit: Exceptions and invariants (1 week)
 
 ## Packages (#df45)
 
-# Unit: Compilers and interpreters (1 week)
+# Unit: Compilers and interpreters (2 weeks)
 
 ## Parsing (#2036)
 
@@ -108,7 +106,11 @@ targets: syllabus
 
 # Unit: IB exam review/projects (3 weeks) (ends week 33)
 
-# Unit: Halting problem (2 weeks)
+# Unit: Streams and functional interfaces (2 weeks)
+
+## Streams (#5fa9)
+
+# Unit: Halting problem (1 week)
 
 ## Turing machines (#48b3)
 
