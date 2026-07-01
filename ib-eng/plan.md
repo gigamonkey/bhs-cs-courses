@@ -20,9 +20,9 @@ targets: syllabus
 
 ## While loops (#5c93)
 
-## Enhanaced for loops (#cf3a)
+## Enhanced for loops (#cf3a)
 
-## Methods (#5a4b)
+## Test (#5a4b)
 
 ## Classes (#1ff4)
 
@@ -32,7 +32,9 @@ targets: syllabus
 
 ## Constructors (#8dd2)
 
-# Unit: Down to the bits (2 weeks)
+## Test (#5cbb)
+
+# Unit: Down to the bits (3 weeks)
 
 ## Ints as a bunch of bits (#9a38)
 
@@ -49,6 +51,17 @@ targets: syllabus
 ## Base conversions (#d7ca)
 
 ## String encoding (2 days) (#75ed)
+
+## Logic circuits (#dc1e)
+
+- Describe the purpose and use of logic gates.  (#2985)
+- Construct logic diagrams.  (#ba0e)
+
+## Truth tables (#7846)
+
+- Construct and analyse truth tables.  (#554c)
+
+## Boolean algebra (#5858)
 
 # Unit: CPUs and GPUs (2 weeks)
 
@@ -88,15 +101,11 @@ targets: syllabus
 - Explain the differences between the CPU and the GPU. (HL only)  (#a85d)
 - Describe the role of a GPU.  (#13fb)
 
-# Unit: Interfaces, Collections, and ADTs (1 week)
+# Unit: Interfaces, Collections, and ADTs (2 weeks)
 
 ## Interfaces (#37fb)
 
 ## Generic types (#d433)
-
-# Unit: Records and Enums (1 week)
-
-## Project (#a6b5)
 
 # Unit: Recursion (2 weeks)
 
@@ -104,7 +113,7 @@ targets: syllabus
 
 # Unit: Exceptions and invariants (1 week)
 
-## Packages (#df45)
+## Invariants (#a41c)
 
 # Unit: Compilers and interpreters (2 weeks)
 
@@ -114,7 +123,7 @@ targets: syllabus
 
 ## Compiling (#79e8)
 
-# Unit: Security and cryptography
+- Evaluate the translation processes of interpreters and compilers.  (#5dd0)
 
 # Unit: Review (3 weeks) (ends week 18)
 
@@ -124,7 +133,26 @@ targets: syllabus
 
 # Unit: Operating systems (1 week)
 
-# Unit: Command line (2 weeks)
+## The Stack (#7a3c)
+
+- Describe the role of operating systems.  (#573f)
+- Describe the functions of an operating system.  (#aed1)
+
+## Scheduling (#c6f7)
+
+- Compare different approaches to scheduling.  (#4244)
+- Evaluate the use of polling and interrupt handling.  (#6a80)
+
+## Multitasking (#a04d)
+
+- Explain the role of the operating system in managing multitasking and resource allocation. (HL only)  (#b07a)
+
+## Control systems (#3d55)
+
+- Explain the use of control systems in a range of real-world applications. (HL only)  (#af4c)
+- Describe the use of the control system components. (HL only)  (#77e0)
+
+# Unit: Command line (1 week)
 
 ## Bash (#7c08)
 
@@ -136,7 +164,38 @@ targets: syllabus
 
 ## Intro to SQL (#067d)
 
+- Explain the features, benefits and limitations of a relational database.  (#6532)
+
+## Schema design (#9d57)
+
+- Construct ERDs.  (#6b48)
+- Describe database schemas.  (#a244)
+- Construct tables for relational databases.  (#c95e)
+
+## Normalization (#a4c6)
+
+- Explain the difference between normal forms.  (#b0d1)
+- Construct a database normalized to 3NF for a range of real-world scenarios.  (#b787)
+- Evaluate the need for denormalizing databases.  (#c00a)
+
 # Unit: Networking
+
+## Network hardware (#b32c)
+
+- Describe the function of network devices.  (#b4b7)
+
+## Cloud computing (#9327)
+
+- Describe the purpose, benefits and limitations of modern digital infrastructures.  (#d479)
+- Describe the different types of services in cloud computing.  (#3ab1)
+
+## TCP/IP (#164f)
+
+- Describe the function of the TCP/IP model. (HL only)  (#9d81)
+- Explain how packet switching is used to send data across a network.  (#13c1)
+- Describe different types of IP addressing.  (#27b0)
+
+# Unit: Security and cryptography
 
 # Unit: IA/Independent projects (2 weeks) (ends week 30)
 
@@ -148,19 +207,21 @@ targets: syllabus
 
 ## Streams (#5fa9)
 
+# Unit: Java goodies (2 weeks)
+
+## Records and reflection (#466c)
+
+## Reflection (#1104)
+
 # Unit: Halting problem (1 week)
 
 ## Turing machines (#48b3)
 
-# Unit: Reflection (2 weeks)
-
-## Group project wrap up (#0664)
-
-## Reflection (#1104)
-
 # Unit: Exams (1 week) (ends week 39)
 
 # Unassigned lessons
+
+## Project (#a6b5)
 
 ## Double dispatch (#ab84)
 
@@ -180,44 +241,20 @@ targets: syllabus
 - Use truth tables to demonstrate De Morgan's Laws  (#0a34)
 - Use truth tables to determine if two boolean expressions are equivalent  (#7ed2)
 - Describe the concept of compression.  (#03bf)
-- Describe the different types of services in cloud computing.  (#3ab1)
 - Describe the principal methods of representing data.  (#d0e4)
-- Describe the purpose and use of logic gates.  (#2985)
-- Construct and analyse truth tables.  (#554c)
-- Construct logic diagrams.  (#ba0e)
-- Describe the role of operating systems.  (#573f)
-- Describe the functions of an operating system.  (#aed1)
-- Compare different approaches to scheduling.  (#4244)
-- Evaluate the use of polling and interrupt handling.  (#6a80)
-- Explain the role of the operating system in managing multitasking and resource allocation. (HL only)  (#b07a)
-- Describe the use of the control system components. (HL only)  (#77e0)
-- Explain the use of control systems in a range of real-world applications. (HL only)  (#af4c)
-- Evaluate the translation processes of interpreters and compilers.  (#5dd0)
 - Describe the purpose and characteristics of networks.  (#855f)
-- Describe the purpose, benefits and limitations of modern digital infrastructures.  (#d479)
-- Describe the function of network devices.  (#b4b7)
 - Describe the network protocols used for transport and application.  (#aada)
-- Describe the function of the TCP/IP model. (HL only)  (#9d81)
 - Describe the functions and practical applications of network topologies.  (#ec5a)
 - Describe the function of servers. (HL only)  (#6599)
 - Compare and contrast networking models.  (#11c0)
 - Explain the concepts and applications of network segmentation.  (#cda8)
-- Describe different types of IP addressing.  (#27b0)
 - Compare types of media for data transmission.  (#07e2)
-- Explain how packet switching is used to send data across a network.  (#13c1)
 - Explain how static routing and dynamic routing move data across local area networks. (HL only)  (#edc3)
 - Discuss the effectiveness of firewalls at protecting a network.  (#c8bf)
 - Describe common network vulnerabilities. (HL only)  (#a71a)
 - Describe common network countermeasures. (HL only)  (#1829)
 - Describe the process of encryption and digital certificates.  (#a691)
-- Explain the features, benefits and limitations of a relational database.  (#6532)
-- Describe database schemas.  (#a244)
-- Construct ERDs.  (#6b48)
 - Outline the different data types used in relational databases.  (#7d72)
-- Construct tables for relational databases.  (#c95e)
-- Explain the difference between normal forms.  (#b0d1)
-- Construct a database normalized to 3NF for a range of real-world scenarios.  (#b787)
-- Evaluate the need for denormalizing databases.  (#c00a)
 - Outline the differences between data language types within SQL.  (#291a)
 - Construct queries between two tables in SQL.  (#ceda)
 - Explain how SQL can be used to update data in a database.  (#1ab4)
