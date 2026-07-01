@@ -2,6 +2,7 @@ uuid	text
 03bf497c-ad87-425a-b66a-aef2002249d3	Describe the concept of compression.
 07e22df5-9b35-43c1-b429-7eaf3b8d37fd	Compare types of media for data transmission.
 08a67fc3-4eb8-47d4-aef9-3321d4ea59c3	Explain the primary objectives of data warehouses in data management and business intelligence.
+0a34db04-b1dc-4832-b008-62bb24d829e3	Use truth tables to demonstrate De Morgan's Laws
 0a4e161d-21b5-40ac-ab6b-278a0db5892e	Explain the properties and purpose of ADTs in programming.
 0aa34ee4-eeea-4bc6-8eac-c447ec442bed	Construct code to perform file-processing operations.
 0b4ccd1c-067d-4548-893a-6bf01b00c791	Construct and trace algorithms to implement a linear search and a binary search for data retrieval.
@@ -16,6 +17,8 @@ uuid	text
 19b65586-ca9e-4ebd-a9e3-9ce822478bb9	Explain the role of hyperparameter tuning when evaluating supervised learning algorithms.
 1a886b5e-d6e6-4b34-9871-55731f558ade	Describe how programs use common exception handling techniques.
 1ab43281-5561-459c-8b97-e5b3ca5e1a27	Explain how SQL can be used to update data in a database.
+1fd1554e-2ba7-4c26-8b84-708cd606c216	Describe why multi-core CPUs can do more in the same amount of time than single-core CPUs.
+263cabce-9d1a-47ef-805f-bfb1e5209940	Build a truth table for a boolean expression
 27b09852-5644-4d84-b8c8-e66b0d670990	Describe different types of IP addressing.
 291af902-b085-4354-a1ab-68966b704dec	Outline the differences between data language types within SQL.
 29851497-50d9-48f8-bc0b-80392e4f2095	Describe the purpose and use of logic gates.
@@ -25,6 +28,7 @@ uuid	text
 3178dfde-f005-48e4-b74b-df281da998b1	Explain the three busses that connect the CPU and RAM.
 3a5566c3-789c-46ba-a3ad-480d0456fba0	Describe the hardware requirements for various scenarios where machine learning is deployed.
 3ab18c7d-1327-4033-b76a-f660f942507e	Describe the different types of services in cloud computing.
+3f6583d2-a69d-45e6-b2cc-dfe67c018208	Build a truth table from a logic circuit diagram
 424487e8-81bb-49cf-af2a-d393756d6d84	Compare different approaches to scheduling.
 473555ab-933e-485c-95f9-206cdb079b59	Distinguish between static and non-static variables and methods.
 489337f1-e898-4a05-9fd4-0136c18cb70f	Explain the concept of a queue as a “first in, first out” (FIFO) data structure.
@@ -42,6 +46,7 @@ uuid	text
 5a315a4b-167a-4d7c-8e1e-c13fd1576269	Describe how clustering techniques in unsupervised learning are used to group data based on similarities in features.
 5c6f3092-e737-4945-859f-4381bc1d1197	Evaluate the fundamentals of OOP.
 5dd0f564-d0f7-406d-a0f3-8efad01dfd05	Evaluate the translation processes of interpreters and compilers.
+5eb6f4c7-43cb-48ed-8bf3-b7be02374367	Build an n-bit Grey code
 5ffc611f-bab7-4c2a-87df-14a9582aab3a	Explain the structures and properties of BSTs.
 6198a79c-ae2e-4e06-bb42-b28057c6463f	Describe how transactions maintain data integrity in a database. (HL only)
 62b5cc42-02ff-4696-9503-c9c8085fa252	Construct code to define classes and instantiate objects.
@@ -58,6 +63,7 @@ uuid	text
 7283a3e6-9dfd-4d11-a3ca-32b647b9cc78	Describe the purpose program counter (PC).
 77e0b7bc-a61d-4fe8-a04a-04b219f69ef5	Describe the use of the control system components. (HL only)
 7d720bc3-5d1b-4707-9d99-16389745ba9d	Outline the different data types used in relational databases.
+7ed2d070-9205-4c3e-a843-b21e8389e9d0	Use truth tables to determine if two boolean expressions are equivalent
 825185bf-ee8d-42b2-b5b7-da304a9293cf	Discuss ethical aspects of the increasing integration of computer technologies into daily life.
 82f870fd-0b5a-4625-b69b-3fc062e0561b	Describe the notional memory data register (MDR)
 842dc386-fa69-42bf-9f44-a0752036dfa5	Describe the efficiency of specific algorithms by calculating their Big O notation to analyse their scalability.
@@ -65,6 +71,7 @@ uuid	text
 88a3fb5c-f71b-4f66-86a5-3d5f0e3a3448	Explain the role of composition and aggregation in class relationships.
 8c69de83-18c5-47be-a93e-2e2f2a9704a9	Explain the importance of model selection and comparison in machine learning.
 9328b158-6cdb-4ce9-b1e7-d2429c5196e8	Describe the features of distributed databases.
+93b30bbe-7630-4f3d-b673-0f76b498644f	Build a Karnaugh map for a boolean expression
 9609e02a-744a-4fff-a01c-999a835d34dd	Construct calculations within a database using SQL’s aggregate functions. (HL only)
 9d456b4f-eb14-4743-839e-1366b5adc17d	Describe the process of pipelining in multi-core architectures. (HL only)
 9d48c431-c2c5-4f74-802f-951094ec9a43	Outline the structure and function of ANNs and how multi-layer networks are used to model complex patterns in data sets.
@@ -82,6 +89,7 @@ a71a3ef8-d158-44bc-8d64-a1fc6f43253d	Describe common network vulnerabilities. (H
 a777cede-2f9a-4736-889a-1a1dec3a4c45	Explain and apply the concepts of encapsulation and information hiding in OOP.
 a85d6d9a-1ac2-4387-9a5f-be55c7dd7036	Explain the differences between the CPU and the GPU. (HL only)
 a90d8139-a4af-413c-b4db-89f5e941838c	Explain how classifications techniques in supervised learning are used to predict discrete categorical outcomes.
+a9d8a813-d75d-4942-b9f1-6166b450b1ad	Describe why a pipelined CPU can get more done in the same amount fo time than a non-pipelined CPU.
 aada5189-a865-4ea9-b7c4-ae92cc962bbf	Describe the network protocols used for transport and application.
 ad2f0129-2e92-48c5-b936-b16982419cfe	Construct programs that apply arrays and Lists.
 aed14460-0926-4fe3-bc25-0510a621f61c	Describe the functions of an operating system.
@@ -110,6 +118,7 @@ e2025696-48c1-4f36-afd0-c8614b649c35	Construct code to model polymorphism and it
 e39634dc-3372-4b58-b0fb-2a32ab1fb485	Construct programs that utilize looping structures to perform repeated actions.
 e6e33345-e71b-44a9-a2a7-086c754acf6b	Explain the core principles of ADTs.
 e6ead52f-7e30-4f8b-8dab-7eb240d2c57c	Describe the fundamental concepts of computational thinking.
+e7b8752a-d071-4372-8458-f73482620af0	Simplify a boolean expression using a Karnaugh map
 e872572b-d31d-4e84-9124-6885f4fc7672	Construct and apply linked lists: singly, doubly and circular.
 ec5a79ed-67f6-40b4-ac74-2d804d7f4b65	Describe the functions and practical applications of network topologies.
 eccdc2a8-4e1c-4c0a-a732-3c5be83895fa	Describe the types of machine learning and their applications in the real world.

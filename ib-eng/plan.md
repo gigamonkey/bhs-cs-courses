@@ -26,9 +26,17 @@ targets: syllabus
 
 ## Classes (#1ff4)
 
+## Instance variables (#dc19)
+
+## Methods (#cecf)
+
+## Constructors (#8dd2)
+
 # Unit: Down to the bits (2 weeks)
 
 ## Ints as a bunch of bits (#9a38)
+
+- Explain how binary is used to store data.  (#b167)
 
 ## Bitwise operators (#4e96)
 
@@ -47,8 +55,38 @@ targets: syllabus
 ## What the CPU does (#9b13)
 
 - Describe the purpose program counter (PC).  (#7283)
+- Describe the notional instruction register (IR)  (#2ea0)
+- Describe the notional memory address register (MAR)  (#66d5)
+- Describe the functions and interactions of the main CPU components.  (#4e4a)
+- Describe the purpose of the Control Unit (CU) on the CPU.  (#eeb7)
+- Describe the purpose of the Arithmetic Logic Unit (ALU).  (#9f31)
+- Explain why modern CPUs don't have an accumulator (AC)  (#9ea8)
+- Explain the three busses that connect the CPU and RAM.  (#3178)
+- Describe the notional memory data register (MDR)  (#82f8)
+
+## Memory (#7072)
+
+- Describe internal and external types of secondary memory storage.  (#b614)
+- Explain the purposes of different types of primary memory.  (#d53b)
+
+## Running code (#5255)
+
+- Describe the fetch, decode and execute cycle.  (#d64c)
+- List some ops that affect the program counter.  (#f6a2)
+
+## Pipelining (#fc40)
+
+- Describe the process of pipelining in multi-core architectures. (HL only)  (#9d45)
+- Describe why a pipelined CPU can get more done in the same amount fo time than a non-pipelined CPU.  (#a9d8)
+
+## Multi-core (#66e5)
+
+- Describe why multi-core CPUs can do more in the same amount of time than single-core CPUs.  (#1fd1)
 
 ## GPUs (#5587)
+
+- Explain the differences between the CPU and the GPU. (HL only)  (#a85d)
+- Describe the role of a GPU.  (#13fb)
 
 # Unit: Interfaces, Collections, and ADTs (1 week)
 
@@ -134,25 +172,16 @@ targets: syllabus
 
 # Unplaced objectives
 
-- Describe the notional instruction register (IR)  (#2ea0)
-- Describe the notional memory address register (MAR)  (#66d5)
-- Describe the notional memory data register (MDR)  (#82f8)
-- Explain the three busses that connect the CPU and RAM.  (#3178)
-- Explain why modern CPUs don't have an accumulator (AC)  (#9ea8)
-- List some ops that affect the program counter.  (#f6a2)
-- Describe the purpose of the Arithmetic Logic Unit (ALU).  (#9f31)
-- Describe the purpose of the Control Unit (CU) on the CPU.  (#eeb7)
-- Describe the functions and interactions of the main CPU components.  (#4e4a)
-- Describe the role of a GPU.  (#13fb)
-- Explain the differences between the CPU and the GPU. (HL only)  (#a85d)
-- Explain the purposes of different types of primary memory.  (#d53b)
-- Describe the fetch, decode and execute cycle.  (#d64c)
-- Describe the process of pipelining in multi-core architectures. (HL only)  (#9d45)
-- Describe internal and external types of secondary memory storage.  (#b614)
+- Build a Karnaugh map for a boolean expression  (#93b3)
+- Build a truth table for a boolean expression  (#263c)
+- Build a truth table from a logic circuit diagram  (#3f65)
+- Build an n-bit Grey code  (#5eb6)
+- Simplify a boolean expression using a Karnaugh map  (#e7b8)
+- Use truth tables to demonstrate De Morgan's Laws  (#0a34)
+- Use truth tables to determine if two boolean expressions are equivalent  (#7ed2)
 - Describe the concept of compression.  (#03bf)
 - Describe the different types of services in cloud computing.  (#3ab1)
 - Describe the principal methods of representing data.  (#d0e4)
-- Explain how binary is used to store data.  (#b167)
 - Describe the purpose and use of logic gates.  (#2985)
 - Construct and analyse truth tables.  (#554c)
 - Construct logic diagrams.  (#ba0e)
